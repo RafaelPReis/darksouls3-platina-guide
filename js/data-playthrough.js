@@ -133,7 +133,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_1_8",
         "class": "f_tit",
-        "html": "Logo atrás do telhado, mate o <a href=\"http://darksouls3.wiki.fextralife.com/Crystal+Lizard\" target=\"_blank\" rel=\"noopener noreferrer\">Crystal Lizard</a> para obter um <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Pisca-Pisca</a>"
+        "html": "Logo atrás do telhado, mate o <a href=\"http://darksouls3.wiki.fextralife.com/Crystal+Lizard\" target=\"_blank\" rel=\"noopener noreferrer\">Crystal Lizard</a> para obter um <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante</a>"
       },
       {
         "id": "playthrough_1_9",
@@ -941,7 +941,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_4_40",
         "class": "f_tit",
-        "html": "Desça pelos caminhos sinuosos passando pela fogueira Crystal Sage para encontrar dois Crystal Lizards, que deixarão cair cada um <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Pisca-Pisca</a>"
+        "html": "Desça pelos caminhos sinuosos passando pela fogueira Crystal Sage para encontrar dois Crystal Lizards, que deixarão cair cada um <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante</a>"
       },
       {
         "id": "playthrough_4_41",
@@ -997,12 +997,12 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_5_9",
         "class": "f_tit",
-        "html": "Continue descendo o canal e suba as escadas no final. No topo das etapas, haverá um <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Shard\" target=\"_blank\" rel=\"noopener noreferrer\">Fragmento de Titanita</a> à sua direita e um Crystal Lizard na sua frente que deixará cair um <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Pisca-Pisca</a> quando morto"
+        "html": "Continue descendo o canal e suba as escadas no final. No topo das etapas, haverá um <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Shard\" target=\"_blank\" rel=\"noopener noreferrer\">Fragmento de Titanita</a> à sua direita e um Crystal Lizard na sua frente que deixará cair um <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante</a> quando morto"
       },
       {
         "id": "playthrough_5_10",
         "class": "f_tit",
-        "html": "Mais adiante no caminho você encontrará outro Crystal Lizard que derrubará outro <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Pisca-Pisca</a>. Se você subir os degraus de pedra perto de onde o lagarto estava sentado inicialmente, você pode pegar outro <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Shard\" target=\"_blank\" rel=\"noopener noreferrer\">Fragmento de Titanita</a>"
+        "html": "Mais adiante no caminho você encontrará outro Crystal Lizard que derrubará outro <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante</a>. Se você subir os degraus de pedra perto de onde o lagarto estava sentado inicialmente, você pode pegar outro <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Shard\" target=\"_blank\" rel=\"noopener noreferrer\">Fragmento de Titanita</a>"
       },
       {
         "id": "playthrough_5_11",
@@ -1388,7 +1388,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_6_21",
         "class": "f_tit",
-        "html": "Quando chegar ao topo, vá para a direita (não entre na torre) para encontrar um Crystal Lizard do outro lado que deixa cair um <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Pisca-Pisca</a>"
+        "html": "Quando chegar ao topo, vá para a direita (não entre na torre) para encontrar um Crystal Lizard do outro lado que deixa cair um <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante</a>"
       },
       {
         "id": "playthrough_6_22",
@@ -1704,7 +1704,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_7_10",
         "class": "f_misc f_tit",
-        "html": "Vá para a plataforma ao lado de Anri, mate um Crystal Lizard para obter um <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Pisca-Pisca</a> e pegue <a href=\"http://darksouls3.wiki.fextralife.com/Bloodred+Moss+Clump\" target=\"_blank\" rel=\"noopener noreferrer\">Bloodred Moss Clump x3</a> em o lado direito"
+        "html": "Vá para a plataforma ao lado de Anri, mate um Crystal Lizard para obter um <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante</a> e pegue <a href=\"http://darksouls3.wiki.fextralife.com/Bloodred+Moss+Clump\" target=\"_blank\" rel=\"noopener noreferrer\">Bloodred Moss Clump x3</a> em o lado direito"
       },
       {
         "id": "playthrough_7_11",
@@ -1990,7 +1990,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_14_31",
         "class": "f_tit",
-        "html": "Depois de desligar a balista, você notará alguns penhascos nos quais poderá cair e que eventualmente o levarão de volta ao lago. Você também pousará bem em frente a uma caverna que não explorou (você também pode chegar aqui correndo para a direita da fogueira da Tumba Abandonada). Entre para encontrar dois lagartos de cristal que derrubam <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Pisca-Pisca</a> e <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Chunk\" target=\"_blank\" rel=\"noopener noreferrer\">Pedaço de Titanita</a>"
+        "html": "Depois de desligar a balista, você notará alguns penhascos nos quais poderá cair e que eventualmente o levarão de volta ao lago. Você também pousará bem em frente a uma caverna que não explorou (você também pode chegar aqui correndo para a direita da fogueira da Tumba Abandonada). Entre para encontrar dois lagartos de cristal que derrubam <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante</a> e <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Chunk\" target=\"_blank\" rel=\"noopener noreferrer\">Pedaço de Titanita</a>"
       },
       {
         "id": "playthrough_14_32",
@@ -2066,7 +2066,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_15_9",
         "class": "f_tit",
-        "html": "À esquerda da estrada principal está um Crystal Lizard que deixa cair uma <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Pisca-Pisca</a>"
+        "html": "À esquerda da estrada principal está um Crystal Lizard que deixa cair uma <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante</a>"
       },
       {
         "id": "playthrough_15_10",
@@ -2156,7 +2156,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_15_26",
         "class": "f_tit",
-        "html": "Desça as escadas e fique logo antes do lago. A parede no primeiro túnel à direita é uma parede ilusória com um Crystal Lizard atrás dela que derruba <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Pisca-Pisca</a>"
+        "html": "Desça as escadas e fique logo antes do lago. A parede no primeiro túnel à direita é uma parede ilusória com um Crystal Lizard atrás dela que derruba <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante</a>"
       },
       {
         "id": "playthrough_15_27",
@@ -2689,7 +2689,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_9_3",
         "class": "f_misc f_tit",
-        "html": "Use a rampa de tábuas ao lado da Gárgula que embosca você para entrar em uma sala com dois Lagartos de Cristal que derrubam <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Pisca-Pisca</a>. No canto esquerdo você pode encontrar uma <a href=\"http://darksouls3.wiki.fextralife.com/Rusted+Gold+Coin\" target=\"_blank\" rel=\"noopener noreferrer\">Moeda de Ouro Enferrujada</a>"
+        "html": "Use a rampa de tábuas ao lado da Gárgula que embosca você para entrar em uma sala com dois Lagartos de Cristal que derrubam <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante</a>. No canto esquerdo você pode encontrar uma <a href=\"http://darksouls3.wiki.fextralife.com/Rusted+Gold+Coin\" target=\"_blank\" rel=\"noopener noreferrer\">Moeda de Ouro Enferrujada</a>"
       },
       {
         "id": "playthrough_9_4",
@@ -3187,7 +3187,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_12_30",
         "class": "f_tit",
-        "html": "Siga pelo caminho até chegar a um Crystal Lizard que dropa <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Pisca-Pisca x3</a>. O baú na próxima sala contém <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Scale\" target=\"_blank\" rel=\"noopener noreferrer\">Escama de Titanita x3</a>"
+        "html": "Siga pelo caminho até chegar a um Crystal Lizard que dropa <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante x3</a>. O baú na próxima sala contém <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Scale\" target=\"_blank\" rel=\"noopener noreferrer\">Escama de Titanita x3</a>"
       },
       {
         "id": "playthrough_12_31",
@@ -3358,7 +3358,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_13_14",
         "class": "f_tit",
-        "html": "Desça e pegue <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Pisca-Pisca x2</a> (no lado esquerdo), um <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Chunk\" target=\"_blank\" rel=\"noopener noreferrer\">Pedaço de Titanita</a> e outro <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Chunk\" target=\"_blank\" rel=\"noopener noreferrer\">Pedaço de titanita</a>"
+        "html": "Desça e pegue <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante x2</a> (no lado esquerdo), um <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Chunk\" target=\"_blank\" rel=\"noopener noreferrer\">Pedaço de Titanita</a> e outro <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Chunk\" target=\"_blank\" rel=\"noopener noreferrer\">Pedaço de titanita</a>"
       },
       {
         "id": "playthrough_13_15",
@@ -3408,7 +3408,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_13_24",
         "class": "f_tit f_miss",
-        "html": "Vire-se e pegue a saída no mesmo nível para encontrar um <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Chunk\" target=\"_blank\" rel=\"noopener noreferrer\">Pedaço de Titanita</a>, um Crystal Lizard que derruba <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Pisca-Pisca x2</a> e um <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Scale\" target=\"_blank\" rel=\"noopener noreferrer\">Escama de Titanita</a> no final. (Nota: Se você morreu ou recarregou desde que matou o primeiro lagarto nesta área, o segundo terá desaparecido permanentemente)"
+        "html": "Vire-se e pegue a saída no mesmo nível para encontrar um <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Chunk\" target=\"_blank\" rel=\"noopener noreferrer\">Pedaço de Titanita</a>, um Crystal Lizard que derruba <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante x2</a> e um <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Scale\" target=\"_blank\" rel=\"noopener noreferrer\">Escama de Titanita</a> no final. (Nota: Se você morreu ou recarregou desde que matou o primeiro lagarto nesta área, o segundo terá desaparecido permanentemente)"
       },
       {
         "id": "playthrough_13_47",
@@ -3599,7 +3599,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_18_11",
         "class": "f_gem f_misc f_tit",
-        "html": "Avance para a sala escura, que tem dois Lagartos de Cristal que derrubam <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Pisca-Pisca</a><span class=\"p\"> + </span><a href=\"http://darksouls3.wiki.fextralife.com/Chaos+Gem\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos Gem</a> e <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanite Cintilante x2</a>, bem como um cadáver com uma <a href=\"http://darksouls3.wiki.fextralife.com/Soul+of+a+Nameless+Soldier\" target=\"_blank\" rel=\"noopener noreferrer\">Alma de um Soldado Sem Nome</a>"
+        "html": "Avance para a sala escura, que tem dois Lagartos de Cristal que derrubam <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante</a><span class=\"p\"> + </span><a href=\"http://darksouls3.wiki.fextralife.com/Chaos+Gem\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos Gem</a> e <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanite Cintilante x2</a>, bem como um cadáver com uma <a href=\"http://darksouls3.wiki.fextralife.com/Soul+of+a+Nameless+Soldier\" target=\"_blank\" rel=\"noopener noreferrer\">Alma de um Soldado Sem Nome</a>"
       },
       {
         "id": "playthrough_18_12",
@@ -4066,7 +4066,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_20_33",
         "class": "f_tit",
-        "html": "Desça até as raízes e siga em frente até encontrar um Crystal Lizard que derruba <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Pisca-Pisca</a>"
+        "html": "Desça até as raízes e siga em frente até encontrar um Crystal Lizard que derruba <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante</a>"
       },
       {
         "id": "playthrough_20_34",
@@ -4201,7 +4201,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_20_60",
         "class": "f_tit",
-        "html": "Agora volte para a torre e suba a escada mais uma vez, atravesse a ponte, e na outra ponte está um Crystal Lizard que deixa cair um <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Pisca-Pisca</a>"
+        "html": "Agora volte para a torre e suba a escada mais uma vez, atravesse a ponte, e na outra ponte está um Crystal Lizard que deixa cair um <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante</a>"
       },
       {
         "id": "playthrough_20_61",
@@ -4412,7 +4412,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_21_3",
         "class": "f_misc f_tit f_weap",
-        "html": "Volte para a plataforma e vá em direção ao item que você pode ver. O chão vai quebrar e você acabará em uma sala com <a href=\"http://darksouls3.wiki.fextralife.com/Soul+of+a+Weary+Warrior\" target=\"_blank\" rel=\"noopener noreferrer\">Alma de um guerreiro cansado</a>, <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Scale\" target=\"_blank\" rel=\"noopener noreferrer\">Escama de Titanita</a>, <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Pisca-Pisca</a>, e a <a href=\"http://darksouls3.wiki.fextralife.com/Murky+Hand+Scythe\" target=\"_blank\" rel=\"noopener noreferrer\">Murky Hand Scythe</a> (à esquerda da saída, atrás das estantes)"
+        "html": "Volte para a plataforma e vá em direção ao item que você pode ver. O chão vai quebrar e você acabará em uma sala com <a href=\"http://darksouls3.wiki.fextralife.com/Soul+of+a+Weary+Warrior\" target=\"_blank\" rel=\"noopener noreferrer\">Alma de um guerreiro cansado</a>, <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Scale\" target=\"_blank\" rel=\"noopener noreferrer\">Escama de Titanita</a>, <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante</a>, e a <a href=\"http://darksouls3.wiki.fextralife.com/Murky+Hand+Scythe\" target=\"_blank\" rel=\"noopener noreferrer\">Murky Hand Scythe</a> (à esquerda da saída, atrás das estantes)"
       },
       {
         "id": "playthrough_21_4",
@@ -4517,7 +4517,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_21_22",
         "class": "f_tit",
-        "html": "Da fogueira você pode ver um item em uma raiz. Para chegar até lá você tem que cruzar a torre à esquerda dela, virar à direita e correr para trás e para as raízes para pegar a <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Pisca-Pisca</a>"
+        "html": "Da fogueira você pode ver um item em uma raiz. Para chegar até lá você tem que cruzar a torre à esquerda dela, virar à direita e correr para trás e para as raízes para pegar a <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante</a>"
       },
       {
         "id": "playthrough_21_23",
@@ -4653,7 +4653,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_22_4",
         "class": "f_tit",
-        "html": "Continue no caminho para encontrar um <a href=\"http://darksouls3.wiki.fextralife.com/Crystal+Lizard\" target=\"_blank\" rel=\"noopener noreferrer\">Crystal Lizard</a> que derruba <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Pisca-Pisca</a><span class=\"p\"> + </span><a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Scale\" target=\"_blank\" rel=\"noopener noreferrer\">Escama de Titanita</a>"
+        "html": "Continue no caminho para encontrar um <a href=\"http://darksouls3.wiki.fextralife.com/Crystal+Lizard\" target=\"_blank\" rel=\"noopener noreferrer\">Crystal Lizard</a> que derruba <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante</a><span class=\"p\"> + </span><a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Scale\" target=\"_blank\" rel=\"noopener noreferrer\">Escama de Titanita</a>"
       },
       {
         "id": "playthrough_22_5",
@@ -4688,7 +4688,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_22_11",
         "class": "f_gem f_tit",
-        "html": "Siga o caminho e entre na sala circular. Dentro, pule no lustre e na plataforma no anel externo para encontrar uma <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Pisca-Pisca</a>. Abaixo você pode encontrar uma <a href=\"http://darksouls3.wiki.fextralife.com/Shriving+Stone\" target=\"_blank\" rel=\"noopener noreferrer\">Shriving Stone</a>"
+        "html": "Siga o caminho e entre na sala circular. Dentro, pule no lustre e na plataforma no anel externo para encontrar uma <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante</a>. Abaixo você pode encontrar uma <a href=\"http://darksouls3.wiki.fextralife.com/Shriving+Stone\" target=\"_blank\" rel=\"noopener noreferrer\">Shriving Stone</a>"
       },
       {
         "id": "playthrough_22_12",
@@ -5003,7 +5003,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_22_74",
         "class": "f_tit",
-        "html": "Antes de entrar na igreja, desça à esquerda para encontrar <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Pisca-Pisca x2</a>"
+        "html": "Antes de entrar na igreja, desça à esquerda para encontrar <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante x2</a>"
       },
       {
         "id": "playthrough_22_75",
