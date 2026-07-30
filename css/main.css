@@ -1,0 +1,797 @@
+/* --------------------------------------------------------------------------
+   DARK SOULS 3 PLATINUM GUIDE - AUTHENTIC FEXTRALIFE WIKI THEME
+   -------------------------------------------------------------------------- */
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800&family=Roboto:ital,wght@0,400;0,500;0,700;1,400&family=Spectral:wght@600;700;800&display=swap');
+
+:root {
+  --fex-bg: #0b0908;
+  --fex-container: #14110e;
+  --fex-card: #1c1813;
+  --fex-card-alt: #16120e;
+  --fex-header-bg: #281e16;
+  --fex-header-bg-hover: #3a2b1f;
+  --fex-border: #3d2f22;
+  --fex-border-gold: #5c4731;
+  --fex-border-gold-bright: #8a6d46;
+  --fex-gold: #d4af37;
+  --fex-gold-bright: #ffffff;
+  --fex-link: #d4af37;
+  --fex-link-hover: #ffffff;
+  --fex-text: #cccccc;
+  --fex-text-bright: #ffffff;
+  --fex-text-muted: #888888;
+  --fex-red: #c0392b;
+  --fex-green: #10b981;
+}
+
+body {
+  background-color: var(--fex-bg);
+  background-image: 
+    radial-gradient(circle at 50% 0%, #201710 0%, transparent 60%),
+    radial-gradient(circle at 80% 80%, #120e0a 0%, #0b0908 70%);
+  background-attachment: fixed;
+  color: var(--fex-text);
+  font-family: 'Roboto', -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  padding-bottom: 60px;
+}
+
+/* Breadcrumb Navigation Bar */
+.fex-breadcrumb {
+  font-size: 0.85em;
+  color: var(--fex-text-muted);
+  margin-bottom: 12px;
+  padding-top: 10px;
+}
+
+.fex-breadcrumb a {
+  color: var(--fex-text-muted);
+  text-decoration: none;
+}
+
+.fex-breadcrumb a:hover {
+  color: var(--fex-gold);
+  text-decoration: underline;
+}
+
+/* Fextralife Top Header Nav Bar */
+.fex-top-header {
+  background: rgba(18, 15, 12, 0.98);
+  backdrop-filter: blur(8px);
+  border-bottom: 2px solid var(--fex-border-gold);
+  margin-bottom: 25px;
+  box-shadow: 0 4px 25px rgba(0, 0, 0, 0.95);
+  position: sticky;
+  top: 0;
+  z-index: 1050;
+  padding: 0 30px;
+}
+
+.fex-header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  min-height: 54px;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.fex-nav-brand {
+  font-family: 'Cinzel', serif;
+  font-size: 1.15em;
+  font-weight: 800;
+  color: var(--fex-gold-bright);
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  white-space: nowrap;
+  margin: 0;
+}
+
+.fex-lang-switch {
+  display: inline-flex;
+  gap: 4px;
+  background: rgba(0, 0, 0, 0.6);
+  padding: 3px 6px;
+  border-radius: 4px;
+  border: 1px solid var(--fex-border-gold);
+  white-space: nowrap;
+  margin-left: auto;
+}
+
+.fex-lang-switch .fex-subtab-btn {
+  padding: 4px 10px;
+  font-size: 0.82em;
+}
+
+.fex-nav-tabs {
+  border-bottom: none !important;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin: 0 !important;
+}
+
+.fex-nav-tabs > li > a {
+  color: var(--fex-gold) !important;
+  font-weight: 700;
+  font-size: 0.88em;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  border: 1px solid transparent !important;
+  border-radius: 4px 4px 0 0 !important;
+  padding: 10px 18px !important;
+  transition: all 0.2s ease;
+}
+
+.fex-nav-tabs > li > a:hover {
+  background: var(--fex-header-bg-hover) !important;
+  color: var(--fex-text-bright) !important;
+  border-color: var(--fex-border-gold) !important;
+}
+
+/* Tab Content Pane Switching */
+.tab-content > .tab-pane {
+  display: none;
+}
+
+.tab-content > .tab-pane.active,
+.tab-content > div.active {
+  display: block !important;
+}
+
+.fex-nav-tabs > li.active > a,
+.fex-nav-tabs > li.active > a:hover,
+.fex-nav-tabs > li.active > a:focus {
+  background: var(--fex-header-bg) !important;
+  color: var(--fex-gold-bright) !important;
+  border: 1px solid var(--fex-border-gold) !important;
+  border-bottom: 3px solid var(--fex-gold-bright) !important;
+}
+
+/* Fextralife Page Main Header (WALKTHROUGH | DARK SOULS 3) */
+.fex-page-title-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  border-bottom: 1px solid #3d3328;
+  padding-bottom: 8px;
+  margin-bottom: 18px;
+}
+
+.fex-page-title {
+  font-family: 'Cinzel', serif;
+  font-size: 2em;
+  font-weight: 800;
+  color: #ffffff;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin: 0;
+}
+
+.fex-page-meta {
+  font-size: 0.82em;
+  color: #777777;
+}
+
+/* Fextralife Index Banner Title (DARK SOULS 3 WALKTHROUGH INDEX) */
+.fex-index-banner {
+  background: #17130f;
+  border-top: 1px solid #5a4732;
+  border-bottom: 1px solid #5a4732;
+  color: #ffffff;
+  font-family: 'Cinzel', serif;
+  font-size: 1.5em;
+  font-weight: 800;
+  text-align: center;
+  padding: 12px 20px;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  margin: 25px 0 18px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  box-shadow: inset 0 0 12px rgba(0, 0, 0, 0.8);
+}
+
+/* Fextralife Index Grid Buttons (.vnlinkbutton Style from Screenshot) */
+.fex-index-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px 10px;
+  padding: 10px 0 25px 0;
+}
+
+/* Fextralife Area Title Banner (Matching User Reference Image) */
+.fex-area-title-banner {
+  border-top: 2px solid var(--fex-border-gold);
+  border-bottom: 2px solid var(--fex-border-gold);
+  background: linear-gradient(180deg, rgba(28, 24, 20, 0.95) 0%, rgba(18, 15, 12, 0.95) 100%);
+  padding: 12px 24px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.8);
+  border-radius: 2px;
+}
+
+.fex-area-title-text {
+  font-family: 'Cinzel', serif;
+  font-size: 1.45em;
+  font-weight: 800;
+  color: var(--fex-gold-bright); /* Matching dark gold/amber site theme */
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  text-shadow: 0 0 10px rgba(198, 155, 76, 0.35), 0 2px 4px rgba(0, 0, 0, 0.9);
+}
+
+.fex-area-title-icon {
+  color: var(--fex-gold-bright);
+  font-size: 1.1em;
+}
+
+.fex-area-title-counter {
+  font-family: 'Cinzel', serif;
+  font-size: 1.25em;
+  font-weight: 700;
+  color: var(--fex-gold-bright);
+  text-shadow: 0 0 8px rgba(198, 155, 76, 0.5);
+}
+
+.fex-index-btn.active {
+  background: linear-gradient(180deg, #3d311d 0%, #261d10 100%) !important;
+  color: var(--fex-gold-bright) !important;
+  border: 2px solid var(--fex-border-gold) !important;
+  box-shadow: 0 0 14px rgba(198, 155, 76, 0.5) !important;
+  transform: translateY(-1px);
+}
+
+.fex-index-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  background: #1f1b17;
+  border: 1px solid #5a4732;
+  border-radius: 4px;
+  color: #ffffff !important;
+  font-size: 0.9em;
+  font-weight: 600;
+  padding: 8px 16px;
+  text-decoration: none !important;
+  transition: all 0.15s ease-in-out;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.5);
+}
+
+.fex-index-btn:hover {
+  background: #3a2b1f;
+  border-color: #ffd700;
+  color: #ffffff !important;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.8);
+}
+
+.fex-index-btn span {
+  color: #d4af37;
+  font-size: 0.85em;
+  font-weight: 700;
+}
+
+/* Headings */
+h1 {
+  font-family: 'Cinzel', serif;
+  font-size: 2em;
+  font-weight: 800;
+  color: #ffffff;
+  border-bottom: 1px solid var(--fex-border-gold);
+  padding-bottom: 8px;
+  margin-bottom: 18px;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-family: 'Cinzel', serif;
+  font-size: 1.35em;
+  font-weight: 700;
+  color: #ffffff;
+  background: linear-gradient(135deg, #241b13 0%, #16120e 100%);
+  border: 1px solid var(--fex-border-gold);
+  border-left: 4px solid var(--fex-gold);
+  padding: 10px 16px;
+  border-radius: 4px;
+  margin-top: 25px;
+  margin-bottom: 15px;
+  text-transform: uppercase;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.5);
+}
+
+h3 {
+  font-family: 'Cinzel', serif;
+  color: var(--fex-gold);
+  font-weight: 700;
+  font-size: 1.2em;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+p {
+  color: var(--fex-text);
+  line-height: 1.7;
+}
+
+p.lead {
+  color: #a09080;
+  font-size: 1.02em;
+  margin-bottom: 18px;
+}
+
+a {
+  color: var(--fex-link);
+  font-weight: 600;
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+
+a:hover {
+  color: var(--fex-link-hover);
+  text-decoration: underline;
+}
+
+/* Form Controls & Search Inputs */
+.form-control {
+  background: #17130f !important;
+  border: 1px solid #5a4732 !important;
+  color: #ffffff !important;
+  border-radius: 4px !important;
+  padding: 10px 14px !important;
+  height: auto !important;
+  font-size: 0.95em !important;
+}
+
+.form-control:focus {
+  border-color: #d4af37 !important;
+  box-shadow: 0 0 8px rgba(212, 175, 55, 0.4) !important;
+}
+
+/* Sub-Tab Segmented Filter Bar */
+.fex-subtab-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  background: var(--fex-container);
+  border: 1px solid var(--fex-border-gold);
+  border-radius: 4px;
+  padding: 12px;
+  margin-bottom: 20px;
+}
+
+.fex-subtab-btn {
+  background: var(--fex-card);
+  border: 1px solid var(--fex-border);
+  color: var(--fex-gold);
+  font-weight: 700;
+  font-size: 0.88em;
+  text-transform: uppercase;
+  padding: 8px 14px;
+  border-radius: 4px;
+  transition: all 0.15s ease;
+  cursor: pointer;
+}
+
+.fex-subtab-btn:hover {
+  background: var(--fex-header-bg-hover);
+  color: var(--fex-text-bright);
+  border-color: var(--fex-gold);
+}
+
+.fex-subtab-btn.active {
+  background: var(--fex-gold) !important;
+  color: #000000 !important;
+  font-weight: 800;
+  border-color: #ffffff !important;
+}
+
+/* Steam Trophies Grid */
+.steam-trophies-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(310px, 1fr));
+  gap: 16px;
+  margin-top: 18px;
+}
+
+.steam-trophy-card {
+  background: var(--fex-card);
+  border: 1px solid var(--fex-border-gold);
+  border-radius: 6px;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.5);
+  transition: transform 0.15s ease, border-color 0.15s ease;
+}
+
+.steam-trophy-card:hover {
+  border-color: #ffd700;
+  transform: translateY(-2px);
+}
+
+.steam-trophy-card.trophy-completed {
+  border-color: var(--fex-green) !important;
+  background: #12221a !important;
+}
+
+.steam-trophy-header {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.steam-trophy-header input[type="checkbox"] {
+  width: 18px;
+  height: 18px;
+  margin-top: 2px;
+  cursor: pointer;
+  accent-color: var(--fex-green);
+}
+
+.steam-trophy-title {
+  font-weight: 700;
+  font-size: 1.05em;
+  color: #ffffff;
+  line-height: 1.35;
+}
+
+.steam-trophy-card.trophy-completed .steam-trophy-title {
+  color: var(--fex-green) !important;
+}
+
+.steam-trophy-desc {
+  font-size: 0.92em;
+  color: var(--fex-text);
+  margin-bottom: 10px;
+  flex-grow: 1;
+}
+
+.steam-trophy-req {
+  font-size: 0.85em;
+  color: var(--fex-text-muted);
+  background: var(--fex-card-alt);
+  padding: 8px 12px;
+  border-radius: 4px;
+  border: 1px solid var(--fex-border);
+}
+
+/* Category Filters Dropdown Toolbar */
+.tab-pane > .btn-group {
+  display: flex !important;
+  flex-wrap: wrap !important;
+  gap: 8px !important;
+  margin-bottom: 20px !important;
+}
+
+.tab-pane > .btn-group > .btn-group-vertical {
+  position: relative !important;
+  display: inline-block !important;
+  vertical-align: top !important;
+  float: none !important;
+}
+
+.tab-pane > .btn-group > .btn-group-vertical > .btn-group:not(:first-child) {
+  display: none !important;
+  position: absolute !important;
+  top: 100% !important;
+  left: 0 !important;
+  z-index: 1000 !important;
+  min-width: 180px !important;
+  background: var(--fex-container) !important;
+  border: 1px solid var(--fex-border-gold) !important;
+  border-radius: 4px !important;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.9) !important;
+  padding: 6px !important;
+}
+
+.tab-pane > .btn-group > .btn-group-vertical:hover > .btn-group:not(:first-child) {
+  display: block !important;
+}
+
+.tab-pane > .btn-group > .btn-group-vertical > .btn-group:not(:first-child) .btn {
+  display: block !important;
+  width: 100% !important;
+  text-align: left !important;
+  margin-bottom: 4px !important;
+  border-radius: 3px !important;
+  float: none !important;
+}
+
+/* Checklist Items */
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+ul li[data-id] {
+  background: var(--fex-card);
+  border: 1px solid var(--fex-border);
+  border-radius: 4px;
+  margin-bottom: 6px;
+  padding: 10px 14px;
+  color: var(--fex-text);
+  transition: background 0.15s ease, border-color 0.15s ease;
+}
+
+ul li[data-id]:nth-child(even) {
+  background: var(--fex-card-alt);
+}
+
+ul li[data-id]:hover {
+  background: var(--fex-header-bg);
+  border-color: var(--fex-border-gold);
+}
+
+/* Checkbox & Eye Mechanics */
+input[type="checkbox"] ~ .glyphicon-eye-close,
+input[type="checkbox"] ~ * > .glyphicon-eye-close,
+input[type="checkbox"]:checked ~ .glyphicon-eye-open,
+input[type="checkbox"]:checked ~ * > .glyphicon-eye-open {
+  display: none !important;
+}
+
+input[type="checkbox"] ~ .glyphicon-eye-open,
+input[type="checkbox"] ~ * > .glyphicon-eye-open,
+input[type="checkbox"]:checked ~ .glyphicon-eye-close,
+input[type="checkbox"]:checked ~ * > .glyphicon-eye-close {
+  display: inline-block !important;
+  color: var(--fex-gold);
+}
+
+/* Completed Items - ALWAYS VISIBLE with Strikethrough (Never Hidden) */
+body.hide_completed .completed,
+.completed,
+label.completed,
+.checkbox label.completed {
+  display: block !important;
+  text-decoration: line-through !important;
+  color: #777777 !important;
+  opacity: 0.65 !important;
+}
+
+input[type="checkbox"]:checked + .item_content,
+input[type="checkbox"]:checked ~ .item_content,
+.completed .item_content {
+  text-decoration: line-through !important;
+  color: #777777 !important;
+  opacity: 0.65 !important;
+}
+
+.checkbox label {
+  padding-left: 24px;
+  color: var(--fex-text-bright);
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.checkbox input[type=checkbox] {
+  margin-left: -24px;
+  width: 16px;
+  height: 16px;
+  accent-color: var(--fex-green);
+}
+
+/* Section Header Bar */
+/* Area Headers (Clean, Flat, Elegant Fextralife Header) */
+#playthrough_list h3,
+#item_list h3,
+#weapons_list h3,
+#armors_list h3 {
+  background: transparent !important;
+  border: none !important;
+  border-bottom: 2px solid #5a4732 !important;
+  border-radius: 0 !important;
+  padding: 0 0 8px 0 !important;
+  margin-top: 32px !important;
+  margin-bottom: 14px !important;
+  box-shadow: none !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  font-family: 'Cinzel', serif !important;
+  font-size: 1.25em !important;
+  color: #ffffff !important;
+  text-transform: uppercase !important;
+}
+
+#playthrough_list h3 a,
+#item_list h3 a {
+  color: #ffffff !important;
+  font-weight: 700 !important;
+  text-decoration: none !important;
+}
+
+#playthrough_list h3 a:hover,
+#item_list h3 a:hover {
+  color: #d4af37 !important;
+}
+
+/* Area NPC Banners (Sleek Compact Info Bar) */
+.area-npc-banner {
+  background: #14110e;
+  border: 1px solid #3d2f22;
+  border-left: 3px solid #d4af37;
+  border-radius: 4px;
+  padding: 8px 12px;
+  margin: 8px 0 12px 0;
+}
+
+.area-npc-title {
+  font-family: 'Cinzel', serif;
+  font-weight: 700;
+  font-size: 0.9em;
+  color: #d4af37;
+  margin-bottom: 6px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.area-npc-pill {
+  display: block;
+  background: #1c1813;
+  border: 1px solid #2d241c;
+  color: #cccccc;
+  padding: 4px 10px;
+  border-radius: 3px;
+  font-size: 0.85em;
+  margin-bottom: 4px;
+}
+
+.area-npc-pill strong {
+  color: #ffffff;
+}
+
+.area-npc-pill-danger {
+  background: rgba(192, 57, 43, 0.18);
+  border-color: var(--fex-red);
+  color: #fca5a5;
+  font-weight: 600;
+}
+  border-radius: 3px;
+  font-size: 0.88em;
+  margin-bottom: 6px;
+}
+
+.area-npc-pill strong {
+  color: var(--fex-gold);
+}
+
+.area-npc-pill-danger {
+  background: rgba(192, 57, 43, 0.25);
+  border-color: var(--fex-red);
+  color: #fca5a5;
+  font-weight: 600;
+}
+
+/* NPC Quest Cards */
+.npc-quest-card {
+  background: var(--fex-container);
+  border: 1px solid var(--fex-border-gold);
+  border-top: 3px solid var(--fex-gold);
+  border-radius: 6px;
+  margin-bottom: 20px;
+  padding: 18px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.5);
+}
+
+.npc-quest-card h3 {
+  color: #ffffff;
+  font-family: 'Cinzel', serif;
+  border-bottom: 1px solid var(--fex-border-gold);
+  padding-bottom: 8px;
+  margin-top: 0;
+  font-size: 1.25em;
+  text-transform: uppercase;
+}
+
+.npc-summary-text {
+  color: var(--fex-text);
+  font-size: 0.95em;
+  margin-bottom: 12px;
+}
+
+.npc-fail-box {
+  background: rgba(192, 57, 43, 0.2);
+  border: 1px solid var(--fex-red);
+  color: #fca5a5;
+  padding: 8px 12px;
+  border-radius: 4px;
+  font-weight: 600;
+  margin-bottom: 14px;
+}
+
+.npc-step-item {
+  background: var(--fex-card);
+  border: 1px solid var(--fex-border);
+  border-radius: 4px;
+  padding: 12px 14px;
+  margin-bottom: 10px;
+}
+
+.npc-step-item.completed-step {
+  border-color: var(--fex-green) !important;
+  background: #12221a !important;
+}
+
+.npc-step-title {
+  color: #ffffff;
+  font-weight: 700;
+}
+
+.npc-step-desc {
+  margin: 8px 0 6px 0;
+  color: var(--fex-text);
+  font-size: 0.94em;
+}
+
+.badge-npc-step {
+  display: inline-block;
+  margin-right: 6px;
+  padding: 2px 8px;
+  background-color: var(--fex-header-bg);
+  border: 1px solid var(--fex-border-gold);
+  color: var(--fex-gold);
+  border-radius: 3px;
+  font-size: 0.85em;
+  font-weight: 700;
+}
+
+.badge-fail-warning {
+  display: block;
+  margin: 6px 0 2px 0;
+  padding: 6px 10px;
+  background-color: rgba(192, 57, 43, 0.85);
+  color: #ffffff;
+  border-radius: 3px;
+  font-weight: 700;
+  font-size: 0.88em;
+}
+
+/* Modals */
+.modal-content {
+  background-color: var(--fex-container) !important;
+  border: 1px solid var(--fex-border-gold) !important;
+  color: #ffffff !important;
+  border-radius: 6px !important;
+}
+
+.modal-header {
+  background: var(--fex-header-bg) !important;
+  border-bottom: 1px solid var(--fex-border-gold) !important;
+}
+
+.modal-header .close {
+  color: #ffffff !important;
+  opacity: 0.9;
+}
+
+/* Scroll To Top */
+.btn.fadingbutton {
+  background: var(--fex-container);
+  border: 1px solid var(--fex-border-gold);
+  color: #ffffff;
+  font-weight: 700;
+  position: fixed;
+  display: none;
+  z-index: 1000;
+  bottom: 20px;
+  right: 20px;
+  padding: 8px 14px;
+  border-radius: 4px;
+}
