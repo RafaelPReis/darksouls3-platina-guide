@@ -1,5 +1,8 @@
 # 🔥 Dark Souls 3 - Guia da Platina & Cheat Sheet (Edição PT-BR)
 
+[![Português](https://img.shields.io/badge/Idioma-Portugu%C3%AAs-green.svg)](README.md)
+[![English](https://img.shields.io/badge/Language-English-blue.svg)](README.en.md)
+
 Uma aplicação web moderna, responsiva e completa criada para ajudar jogadores a conquistarem a **Platina (100% dos troféus)** em **Dark Souls III** (incluindo todas as DLCs: *Ashes of Ariandel* e *The Ringed City*).
 
 👉 **Projeto no GitHub**: [https://github.com/RafaelPReis/darksouls3-platina-guide](https://github.com/RafaelPReis/darksouls3-platina-guide)  
