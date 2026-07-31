@@ -37,7 +37,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_17_6",
         "class": "f_misc",
-        "html": "Desça pela encosta lateral do grande penhasco à direita para pegar <a href=\"http://darksouls3.wiki.fextralife.com/Firebomb\" target=\"_blank\" rel=\"noopener noreferrer\">Bomba incendiária x5</a> de um cadáver próximo"
+        "html": "Desça pela encosta lateral do grande penhasco à direita para pegar <a href=\"http://darksouls3.wiki.fextralife.com/Bomba de Fogo\" target=\"_blank\" rel=\"noopener noreferrer\">Bomba incendiária x5</a> de um cadáver próximo"
       },
       {
         "id": "playthrough_17_7",
@@ -209,12 +209,12 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_2_6",
         "class": "f_misc",
-        "html": "Volte para baixo e desça atrás do dragão. Entre na pequena porta para pegar <a href=\"http://darksouls3.wiki.fextralife.com/Gold+Pine+Resin\" target=\"_blank\" rel=\"noopener noreferrer\">Gold Pine Resin x2</a> do cadáver"
+        "html": "Volte para baixo e desça atrás do dragão. Entre na pequena porta para pegar <a href=\"http://darksouls3.wiki.fextralife.com/Gold+Pine+Resin\" target=\"_blank\" rel=\"noopener noreferrer\">Resina de Pinho Dourada x2</a> do cadáver"
       },
       {
         "id": "playthrough_2_7",
         "class": "f_misc",
-        "html": "Entre na sala interna e pegue <a href=\"http://darksouls3.wiki.fextralife.com/Firebomb\" target=\"_blank\" rel=\"noopener noreferrer\">Firebomb x2</a> do cadáver ao lado da mesa"
+        "html": "Entre na sala interna e pegue <a href=\"http://darksouls3.wiki.fextralife.com/Bomba de Fogo\" target=\"_blank\" rel=\"noopener noreferrer\">Bomba de Fogo x2</a> do cadáver ao lado da mesa"
       },
       {
         "id": "playthrough_2_8",
@@ -244,7 +244,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_2_13",
         "class": "f_misc",
-        "html": "Entre no próximo prédio e pegue <a href=\"http://darksouls3.wiki.fextralife.com/Firebomb\" target=\"_blank\" rel=\"noopener noreferrer\">Bomba incendiária x3</a> na viga de madeira"
+        "html": "Entre no próximo prédio e pegue <a href=\"http://darksouls3.wiki.fextralife.com/Bomba de Fogo\" target=\"_blank\" rel=\"noopener noreferrer\">Bomba incendiária x3</a> na viga de madeira"
       },
       {
         "id": "playthrough_2_14",
@@ -264,7 +264,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_2_20",
         "class": "f_gem f_misc f_tit",
-        "html": "Vá para o telhado. Se você quiser <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Shard\" target=\"_blank\" rel=\"noopener noreferrer\">Fragmento de Titanita</a><span class=\"p\"> + </span><a href=\"http://darksouls3.wiki.fextralife.com/Ember\" target=\"_blank\" rel=\"noopener noreferrer\">Ember</a>, espere que um dos mortos-vivos se transforme em <a href=\"http://darksouls3.wiki.fextralife.com/Pus+of+Man\" target=\"_blank\" rel=\"noopener noreferrer\">Pus of Man</a> e depois mate-o. E pegue <a href=\"http://darksouls3.wiki.fextralife.com/Firebomb\" target=\"_blank\" rel=\"noopener noreferrer\">Firebomb x3</a> do cadáver. Continue e mate o <a href=\"http://darksouls3.wiki.fextralife.com/Crystal+Lizard\" target=\"_blank\" rel=\"noopener noreferrer\">Crystal Lizard</a> para receber uma <a href=\"http://darksouls3.wiki.fextralife.com/Raw+Gem\" target=\"_blank\" rel=\"noopener noreferrer\">Raw Gem</a>. Há outro cadáver no telhado que contém uma <a href=\"http://darksouls3.wiki.fextralife.com/Large+Soul+of+a+Deserted+Corpse\" target=\"_blank\" rel=\"noopener noreferrer\">Grande Alma de um Cadáver Deserto</a>"
+        "html": "Vá para o telhado. Se você quiser <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Shard\" target=\"_blank\" rel=\"noopener noreferrer\">Fragmento de Titanita</a><span class=\"p\"> + </span><a href=\"http://darksouls3.wiki.fextralife.com/Ember\" target=\"_blank\" rel=\"noopener noreferrer\">Ember</a>, espere que um dos mortos-vivos se transforme em <a href=\"http://darksouls3.wiki.fextralife.com/Pus+of+Man\" target=\"_blank\" rel=\"noopener noreferrer\">Pus of Man</a> e depois mate-o. E pegue <a href=\"http://darksouls3.wiki.fextralife.com/Bomba de Fogo\" target=\"_blank\" rel=\"noopener noreferrer\">Bomba de Fogo x3</a> do cadáver. Continue e mate o <a href=\"http://darksouls3.wiki.fextralife.com/Crystal+Lizard\" target=\"_blank\" rel=\"noopener noreferrer\">Crystal Lizard</a> para receber uma <a href=\"http://darksouls3.wiki.fextralife.com/Raw+Gem\" target=\"_blank\" rel=\"noopener noreferrer\">Raw Gem</a>. Há outro cadáver no telhado que contém uma <a href=\"http://darksouls3.wiki.fextralife.com/Large+Soul+of+a+Deserted+Corpse\" target=\"_blank\" rel=\"noopener noreferrer\">Grande Alma de um Cadáver Deserto</a>"
       },
       {
         "id": "playthrough_2_44",
@@ -274,12 +274,12 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_2_21",
         "class": "f_misc",
-        "html": "Desça a escada e vá para o telhado lateral para pegar <a href=\"http://darksouls3.wiki.fextralife.com/Black+Firebomb\" target=\"_blank\" rel=\"noopener noreferrer\">Black Firebomb x3</a> do cadáver"
+        "html": "Desça a escada e vá para o telhado lateral para pegar <a href=\"http://darksouls3.wiki.fextralife.com/Black+Bomba de Fogo\" target=\"_blank\" rel=\"noopener noreferrer\">Black Bomba de Fogo x3</a> do cadáver"
       },
       {
         "id": "playthrough_2_22",
         "class": "f_misc",
-        "html": "Na varanda adjacente com os arqueiros, pegue <a href=\"http://darksouls3.wiki.fextralife.com/Firebomb\" target=\"_blank\" rel=\"noopener noreferrer\">Bomba incendiária x3</a> do cadáver"
+        "html": "Na varanda adjacente com os arqueiros, pegue <a href=\"http://darksouls3.wiki.fextralife.com/Bomba de Fogo\" target=\"_blank\" rel=\"noopener noreferrer\">Bomba incendiária x3</a> do cadáver"
       },
       {
         "id": "playthrough_2_23",
@@ -389,7 +389,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_2_40",
         "class": "f_cov f_misc",
-        "html": "Dentro da capela, fale com <a href=\"http://darksouls3.wiki.fextralife.com/Emma\" target=\"_blank\" rel=\"noopener noreferrer\">Emma, ​​Alta Sacerdotisa do Castelo de Lothric</a> para receber o <a href=\"http://darksouls3.wiki.fextralife.com/Small+Lothric+Banner\" target=\"_blank\" rel=\"noopener noreferrer\">Estandarte Pequeno de Lothric</a>. Fale com ela novamente para o pacto <a href=\"http://darksouls3.wiki.fextralife.com/Way+of+Blue\" target=\"_blank\" rel=\"noopener noreferrer\">Way of Blue</a>"
+        "html": "Dentro da capela, fale com <a href=\"http://darksouls3.wiki.fextralife.com/Emma\" target=\"_blank\" rel=\"noopener noreferrer\">Emma, ​​Alta Sacerdotisa do Castelo de Lothric</a> para receber o <a href=\"http://darksouls3.wiki.fextralife.com/Small+Lothric+Banner\" target=\"_blank\" rel=\"noopener noreferrer\">Estandarte Pequeno de Lothric</a>. Fale com ela novamente para o pacto <a href=\"http://darksouls3.wiki.fextralife.com/Way+of+Blue\" target=\"_blank\" rel=\"noopener noreferrer\">Caminho Azul</a>"
       },
       {
         "id": "playthrough_2_41",
@@ -430,7 +430,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_3_4",
         "class": "f_gest f_npc f_tome f_miss",
-        "html": "Depois de obter todos os 5 Dark Sigils e atualizar o mundo, Yoel morre com <a href=\"http://darksouls3.wiki.fextralife.com/Yuria+of+Londor\" target=\"_blank\" rel=\"noopener noreferrer\">Yuria de Londor</a> cuidando de seu cadáver recém-descoberto. Fale com ela para receber o gesto Dignified Bow e comprar o <a href=\"http://darksouls3.wiki.fextralife.com/Londor+Braille+Divine+Tome\" target=\"_blank\" rel=\"noopener noreferrer\">Londor Braille Divine Tome</a>"
+        "html": "Depois de obter todos os 5 Dark Sigils e atualizar o mundo, Yoel morre com <a href=\"http://darksouls3.wiki.fextralife.com/Yuria+of+Londor\" target=\"_blank\" rel=\"noopener noreferrer\">Yuria de Londor</a> cuidando de seu cadáver recém-descoberto. Fale com ela para receber o gesto Reverência Dignificada e comprar o <a href=\"http://darksouls3.wiki.fextralife.com/Londor+Braille+Divine+Tome\" target=\"_blank\" rel=\"noopener noreferrer\">Tomo Divino em Braille de Londor</a>"
       },
       {
         "id": "playthrough_3_5",
@@ -500,7 +500,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_3_37",
         "class": "f_misc",
-        "html": "Desça da varanda e caminhe até um telhado. Salte na plataforma de madeira à sua esquerda para pegar <a href=\"http://darksouls3.wiki.fextralife.com/Rusted+Coin\" target=\"_blank\" rel=\"noopener noreferrer\">Rusted Coin x2</a>"
+        "html": "Desça da varanda e caminhe até um telhado. Salte na plataforma de madeira à sua esquerda para pegar <a href=\"http://darksouls3.wiki.fextralife.com/Rusted+Coin\" target=\"_blank\" rel=\"noopener noreferrer\">Moeda Enferrujada x2</a>"
       },
       {
         "id": "playthrough_3_38",
@@ -515,7 +515,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_3_13",
         "class": "f_misc f_weap",
-        "html": "Volte para a árvore em chamas perto do início de Assentamento dos Mortos-Vivos, atravesse a ponte e caminhe pela direita, que deve estar bloqueada por caixotes de madeira e barris. Caminhe em direção às casas com os <a href=\"http://darksouls3.wiki.fextralife.com/Thrall\" target=\"_blank\" rel=\"noopener noreferrer\">Thralls</a>. Encontre uma <a href=\"http://darksouls3.wiki.fextralife.com/Fading+Soul\" target=\"_blank\" rel=\"noopener noreferrer\">Fading Soul</a> aqui. Ande ao redor de uma das casas para pegar o <a href=\"http://darksouls3.wiki.fextralife.com/Plank+Shield\" target=\"_blank\" rel=\"noopener noreferrer\">Plank Shield</a>. Vá até o telhado da casa à sua esquerda e pegue <a href=\"http://darksouls3.wiki.fextralife.com/Firebomb\" target=\"_blank\" rel=\"noopener noreferrer\">Firebomb x6</a>"
+        "html": "Volte para a árvore em chamas perto do início de Assentamento dos Mortos-Vivos, atravesse a ponte e caminhe pela direita, que deve estar bloqueada por caixotes de madeira e barris. Caminhe em direção às casas com os <a href=\"http://darksouls3.wiki.fextralife.com/Thrall\" target=\"_blank\" rel=\"noopener noreferrer\">Thralls</a>. Encontre uma <a href=\"http://darksouls3.wiki.fextralife.com/Fading+Soul\" target=\"_blank\" rel=\"noopener noreferrer\">Fading Soul</a> aqui. Ande ao redor de uma das casas para pegar o <a href=\"http://darksouls3.wiki.fextralife.com/Plank+Shield\" target=\"_blank\" rel=\"noopener noreferrer\">Plank Shield</a>. Vá até o telhado da casa à sua esquerda e pegue <a href=\"http://darksouls3.wiki.fextralife.com/Bomba de Fogo\" target=\"_blank\" rel=\"noopener noreferrer\">Bomba de Fogo x6</a>"
       },
       {
         "id": "playthrough_3_14",
@@ -660,7 +660,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_3_40",
         "class": "f_arm f_ash f_weap",
-        "html": "Volte para a fogueira da Ponte Dilapidada, entre no cemitério perfurado por flechas gigantes e caminhe em direção à casa à esquerda. Pegue o <a href=\"http://darksouls3.wiki.fextralife.com/Blue+Wooden+Shield\" target=\"_blank\" rel=\"noopener noreferrer\">Escudo de Madeira Azul</a><span class=\"p\"> + </span><a href=\"http://darksouls3.wiki.fextralife.com/Cleric+Set\" target=\"_blank\" rel=\"noopener noreferrer\">Conjunto do Clérigo</a> na frente da casa e <a href=\"http://darksouls3.wiki.fextralife.com/Mortician's+Ashes\" target=\"_blank\" rel=\"noopener noreferrer\">Mortician's Ashes</a> perto de uma árvore à esquerda. Se desviar das flechas gigantes for muito problemático, vá para a torre para fazer amizade com o Gigante"
+        "html": "Volte para a fogueira da Ponte Dilapidada, entre no cemitério perfurado por flechas gigantes e caminhe em direção à casa à esquerda. Pegue o <a href=\"http://darksouls3.wiki.fextralife.com/Blue+Wooden+Shield\" target=\"_blank\" rel=\"noopener noreferrer\">Escudo de Madeira Azul</a><span class=\"p\"> + </span><a href=\"http://darksouls3.wiki.fextralife.com/Cleric+Set\" target=\"_blank\" rel=\"noopener noreferrer\">Conjunto do Clérigo</a> na frente da casa e <a href=\"http://darksouls3.wiki.fextralife.com/Mortician's+Ashes\" target=\"_blank\" rel=\"noopener noreferrer\">Cinzas do Papa-Defuntos</a> perto de uma árvore à esquerda. Se desviar das flechas gigantes for muito problemático, vá para a torre para fazer amizade com o Gigante"
       },
       {
         "id": "playthrough_3_55",
@@ -715,7 +715,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_3_49",
         "class": "f_gest f_npc",
-        "html": "Suba e fale com <a href=\"http://darksouls3.wiki.fextralife.com/Irina+of+Carim\" target=\"_blank\" rel=\"noopener noreferrer\">Irina de Carim</a> para receber o gesto de Oração. Toque nela e aceite seus serviços. Ela então se muda para o Santuário do Elo do Fogo. Depois de recrutar Irina, saia e fale com Eygon. No santuário, você pode dar a Irina o <a href=\"http://darksouls3.wiki.fextralife.com/Londor+Braille+Divine+Tome\" target=\"_blank\" rel=\"noopener noreferrer\">Londor Braille Divine Tome</a>, mas fazer isso e comprar qualquer um de seus feitiços leva ao seu final Sombrio. Caso contrário, espere até encontrar Karla mais tarde no jogo"
+        "html": "Suba e fale com <a href=\"http://darksouls3.wiki.fextralife.com/Irina+of+Carim\" target=\"_blank\" rel=\"noopener noreferrer\">Irina de Carim</a> para receber o gesto de Oração. Toque nela e aceite seus serviços. Ela então se muda para o Santuário do Elo do Fogo. Depois de recrutar Irina, saia e fale com Eygon. No santuário, você pode dar a Irina o <a href=\"http://darksouls3.wiki.fextralife.com/Londor+Braille+Divine+Tome\" target=\"_blank\" rel=\"noopener noreferrer\">Tomo Divino em Braille de Londor</a>, mas fazer isso e comprar qualquer um de seus feitiços leva ao seu final Sombrio. Caso contrário, espere até encontrar Karla mais tarde no jogo"
       },
       {
         "id": "playthrough_3_50",
@@ -806,7 +806,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_4_14",
         "class": "f_coal",
-        "html": "Um pouco mais adiante no prédio você encontrará o <a href=\"http://darksouls3.wiki.fextralife.com/Farron+Coal\" target=\"_blank\" rel=\"noopener noreferrer\">Farron Coal</a>, que permite infusões Pesadas, Afiadas e Venenosas"
+        "html": "Um pouco mais adiante no prédio você encontrará o <a href=\"http://darksouls3.wiki.fextralife.com/Farron+Coal\" target=\"_blank\" rel=\"noopener noreferrer\">Carvão de Farron</a>, que permite infusões Pesadas, Afiadas e Venenosas"
       },
       {
         "id": "playthrough_4_15",
@@ -911,7 +911,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_4_33",
         "class": "f_weap",
-        "html": "Teleporte-se ou corra de volta para a fogueira do Bosque da Crucificação. Desta vez, vá para as ruínas (aquelas pelas quais você viajou anteriormente para pegar o Estus Shard). A entrada é um buraco na parede numa pequena depressão no chão. Na primeira sala você encontrará o <a href=\"http://darksouls3.wiki.fextralife.com/Heretic's+Staff\" target=\"_blank\" rel=\"noopener noreferrer\">Cajado do Herege</a> em uma alcova à direita"
+        "html": "Teleporte-se ou corra de volta para a fogueira do Bosque da Crucificação. Desta vez, vá para as ruínas (aquelas pelas quais você viajou anteriormente para pegar o Fragmento de Estus). A entrada é um buraco na parede numa pequena depressão no chão. Na primeira sala você encontrará o <a href=\"http://darksouls3.wiki.fextralife.com/Heretic's+Staff\" target=\"_blank\" rel=\"noopener noreferrer\">Cajado do Herege</a> em uma alcova à direita"
       },
       {
         "id": "playthrough_4_35",
@@ -1032,7 +1032,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_5_16",
         "class": "f_bone f_misc",
-        "html": "Vire-se e saia desta área circular, virando à esquerda quando puder e atravessando uma ponte. Suba uma série de degraus, lute contra o <a href=\"http://darksouls3.wiki.fextralife.com/Cathedral+Grave+Warden\" target=\"_blank\" rel=\"noopener noreferrer\">Cathedral Grave Warden</a> e desça mais degraus à direita até uma área crivada de flechas grandes. Aqui você pode pegar um <a href=\"http://darksouls3.wiki.fextralife.com/Undead+Bone+Shard\" target=\"_blank\" rel=\"noopener noreferrer\">Fragmento de Osso Morto-Vivo</a>, <a href=\"http://darksouls3.wiki.fextralife.com/Repair+Powder\" target=\"_blank\" rel=\"noopener noreferrer\">Pó de Reparo x3</a>, um <a href=\"http://darksouls3.wiki.fextralife.com/Young+White+Branch\" target=\"_blank\" rel=\"noopener noreferrer\">Ramo Branco Jovem</a>, outro <a href=\"http://darksouls3.wiki.fextralife.com/Young+White+Branch\" target=\"_blank\" rel=\"noopener noreferrer\">Young White+Branch\">Young White Branch</a>, um <a href=\"http://darksouls3.wiki.fextralife.com/Large+Soul+of+an+Unknown+Traveler\" target=\"_blank\" rel=\"noopener noreferrer\">Grande Alma de um Viajante Desconhecido</a> e, finalmente, outra <a href=\"http://darksouls3.wiki.fextralife.com/Large+Soul+of+an+Unknown+Traveler\" target=\"_blank\" rel=\"noopener noreferrer\">Grande Alma de um Viajante Desconhecido</a>"
+        "html": "Vire-se e saia desta área circular, virando à esquerda quando puder e atravessando uma ponte. Suba uma série de degraus, lute contra o <a href=\"http://darksouls3.wiki.fextralife.com/Cathedral+Grave+Warden\" target=\"_blank\" rel=\"noopener noreferrer\">Cathedral Grave Warden</a> e desça mais degraus à direita até uma área crivada de flechas grandes. Aqui você pode pegar um <a href=\"http://darksouls3.wiki.fextralife.com/Undead+Bone+Shard\" target=\"_blank\" rel=\"noopener noreferrer\">Fragmento de Osso Morto-Vivo</a>, <a href=\"http://darksouls3.wiki.fextralife.com/Repair+Powder\" target=\"_blank\" rel=\"noopener noreferrer\">Pó de Reparo x3</a>, um <a href=\"http://darksouls3.wiki.fextralife.com/Young+White+Branch\" target=\"_blank\" rel=\"noopener noreferrer\">Ramo Branco Jovem</a>, outro <a href=\"http://darksouls3.wiki.fextralife.com/Young+White+Branch\" target=\"_blank\" rel=\"noopener noreferrer\">Young White+Branch\">Ramo Branco Jovem</a>, um <a href=\"http://darksouls3.wiki.fextralife.com/Large+Soul+of+an+Unknown+Traveler\" target=\"_blank\" rel=\"noopener noreferrer\">Grande Alma de um Viajante Desconhecido</a> e, finalmente, outra <a href=\"http://darksouls3.wiki.fextralife.com/Large+Soul+of+an+Unknown+Traveler\" target=\"_blank\" rel=\"noopener noreferrer\">Grande Alma de um Viajante Desconhecido</a>"
       },
       {
         "id": "playthrough_5_17",
@@ -1042,7 +1042,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_5_18",
         "class": "f_misc",
-        "html": "Volte para cima e para fora em direção às portas duplas principais da catedral. Vá primeiro para a esquerda e role por algumas caixas para encontrar <a href=\"http://darksouls3.wiki.fextralife.com/Rusted+Coin\" target=\"_blank\" rel=\"noopener noreferrer\">Rusted Coin x2</a>"
+        "html": "Volte para cima e para fora em direção às portas duplas principais da catedral. Vá primeiro para a esquerda e role por algumas caixas para encontrar <a href=\"http://darksouls3.wiki.fextralife.com/Rusted+Coin\" target=\"_blank\" rel=\"noopener noreferrer\">Moeda Enferrujada x2</a>"
       },
       {
         "id": "playthrough_5_19",
@@ -1177,7 +1177,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_5_43",
         "class": "f_gest f_misc f_npc f_miss",
-        "html": "Faça zigue-zague pelas vigas em direção à outra extremidade, mantendo-se principalmente à direita. Elimine o cavaleiro com a besta e desça perto de onde ele estava em uma plataforma com alguns candelabros. Solte novamente e você estará de volta com Patches. Ele estará esperando aqui e fingirá não ser responsável pelo que aconteceu. Diga a ele “Você sabe quem eu sou” para receber o gesto de Prostração. Você pode falar com ele novamente para obter uma <a href=\"http://darksouls3.wiki.fextralife.com/Rusted+Coin\" target=\"_blank\" rel=\"noopener noreferrer\">Rusted Coin</a>. Você pode então comprar o <a href=\"http://darksouls3.wiki.fextralife.com/Catarina+Set\" target=\"_blank\" rel=\"noopener noreferrer\">Conjunto de Armadura de Siegward</a> dele. (Observação: comprar esta armadura significa que Patches não serão uma opção de resgate para Greirat mais tarde em Irithyll do Vale Boreal)"
+        "html": "Faça zigue-zague pelas vigas em direção à outra extremidade, mantendo-se principalmente à direita. Elimine o cavaleiro com a besta e desça perto de onde ele estava em uma plataforma com alguns candelabros. Solte novamente e você estará de volta com Patches. Ele estará esperando aqui e fingirá não ser responsável pelo que aconteceu. Diga a ele “Você sabe quem eu sou” para receber o gesto de Prostração. Você pode falar com ele novamente para obter uma <a href=\"http://darksouls3.wiki.fextralife.com/Rusted+Coin\" target=\"_blank\" rel=\"noopener noreferrer\">Moeda Enferrujada</a>. Você pode então comprar o <a href=\"http://darksouls3.wiki.fextralife.com/Catarina+Set\" target=\"_blank\" rel=\"noopener noreferrer\">Conjunto de Armadura de Siegward</a> dele. (Observação: comprar esta armadura significa que Patches não serão uma opção de resgate para Greirat mais tarde em Irithyll do Vale Boreal)"
       },
       {
         "id": "playthrough_5_44",
@@ -1303,7 +1303,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_6_9",
         "class": "f_coal",
-        "html": "Siga esta parede rochosa à esquerda para chegar a uma pequena estrutura guardada por um espectro negro. O <a href=\"http://darksouls3.wiki.fextralife.com/Sage's+Coal\" target=\"_blank\" rel=\"noopener noreferrer\">Sage's Coal</a> está em um corpo dentro desta estrutura, concedendo a você infusões de Cristal, Abençoado e Profundo"
+        "html": "Siga esta parede rochosa à esquerda para chegar a uma pequena estrutura guardada por um espectro negro. O <a href=\"http://darksouls3.wiki.fextralife.com/Sage's+Coal\" target=\"_blank\" rel=\"noopener noreferrer\">Carvão do Sábio</a> está em um corpo dentro desta estrutura, concedendo a você infusões de Cristal, Abençoado e Profundo"
       },
       {
         "id": "playthrough_6_54",
@@ -1398,12 +1398,12 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_6_23",
         "class": "f_cov f_gest",
-        "html": "Entre na sala para encontrar o Velho Lobo de Farron e sua fogueira. Interaja com o lobo para receber o gesto de Etiqueta da Legião e junte-se ao pacto <a href=\"http://darksouls3.wiki.fextralife.com/Watchdogs+of+Farron\" target=\"_blank\" rel=\"noopener noreferrer\">Watchdogs of Farron</a>"
+        "html": "Entre na sala para encontrar o Velho Lobo de Farron e sua fogueira. Interaja com o lobo para receber o gesto de Etiqueta da Legião e junte-se ao pacto <a href=\"http://darksouls3.wiki.fextralife.com/Watchdogs+of+Farron\" target=\"_blank\" rel=\"noopener noreferrer\">Cães de Guarda de Farron</a>"
       },
       {
         "id": "playthrough_6_24",
         "class": "f_gest f_npc f_miss",
-        "html": "Retorne ao Santuário do Elo do Fogo e entregue as Cinzas do Caçador de Sonhos para a Aia do Santuário. Recarregue a área e Sirris estará lá novamente. Fale com ela para receber o gesto Darkmoon Loyalty"
+        "html": "Retorne ao Santuário do Elo do Fogo e entregue as Cinzas do Caçador de Sonhos para a Aia do Santuário. Recarregue a área e Sirris estará lá novamente. Fale com ela para receber o gesto Lealdade da Lua Obscura"
       },
       {
         "id": "playthrough_6_25",
@@ -1538,7 +1538,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_6_39",
         "class": "f_tome",
-        "html": "Siga a parede à sua direita e você eventualmente encontrará o <a href=\"http://darksouls3.wiki.fextralife.com/Sage's+Scroll\" target=\"_blank\" rel=\"noopener noreferrer\">Sage's Scroll</a>, guardado por Ghrus perto de vários cogumelos mortos"
+        "html": "Siga a parede à sua direita e você eventualmente encontrará o <a href=\"http://darksouls3.wiki.fextralife.com/Sage's+Scroll\" target=\"_blank\" rel=\"noopener noreferrer\">Pergaminho do Sábio</a>, guardado por Ghrus perto de vários cogumelos mortos"
       },
       {
         "id": "playthrough_6_41",
@@ -1583,7 +1583,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_6_76",
         "class": "f_gest f_npc f_tome f_miss",
-        "html": "Se você quiser acessar <a href=\"http://darksouls3.wiki.fextralife.com/Yuria+of+Londor\" target=\"_blank\" rel=\"noopener noreferrer\">Yuria de Londor</a> e o final da Usurpação do Fogo, certifique-se de que, antes de prosseguir para lutar contra os Vigilantes do Abismo, você tenha extraído a Força Verdadeira 5 vezes com Yoel e então recarregue o Santuário do Elo do Fogo para que Yoel morra e Yuria apareça. Você pode falar com ela para receber o gesto Dignified Bow e comprar o <a href=\"http://darksouls3.wiki.fextralife.com/Londor+Braille+Divine+Tome\" target=\"_blank\" rel=\"noopener noreferrer\">Londor Braille Divine Tome</a>"
+        "html": "Se você quiser acessar <a href=\"http://darksouls3.wiki.fextralife.com/Yuria+of+Londor\" target=\"_blank\" rel=\"noopener noreferrer\">Yuria de Londor</a> e o final da Usurpação do Fogo, certifique-se de que, antes de prosseguir para lutar contra os Vigilantes do Abismo, você tenha extraído a Força Verdadeira 5 vezes com Yoel e então recarregue o Santuário do Elo do Fogo para que Yoel morra e Yuria apareça. Você pode falar com ela para receber o gesto Reverência Dignificada e comprar o <a href=\"http://darksouls3.wiki.fextralife.com/Londor+Braille+Divine+Tome\" target=\"_blank\" rel=\"noopener noreferrer\">Tomo Divino em Braille de Londor</a>"
       },
       {
         "id": "playthrough_6_72",
@@ -1618,7 +1618,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_6_69",
         "class": "f_boss f_gest f_miss",
-        "html": "<a href=\"http://darksouls3.wiki.fextralife.com/Black+Hand+Gotthard\" target=\"_blank\" rel=\"noopener noreferrer\">Black Hand Gotthard</a> pode ser convocado e concederá a você o gesto By My Sword. Seu sinal de convocação está no primeiro lance de escadas"
+        "html": "<a href=\"http://darksouls3.wiki.fextralife.com/Black+Hand+Gotthard\" target=\"_blank\" rel=\"noopener noreferrer\">Black Hand Gotthard</a> pode ser convocado e concederá a você o gesto Pela Minha Espada. Seu sinal de convocação está no primeiro lance de escadas"
       },
       {
         "id": "playthrough_6_70",
@@ -1628,7 +1628,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_6_71",
         "class": "f_boss f_gest f_npc f_miss",
-        "html": "Se você se dá bem com Yuria, você também pode invocar o <a href=\"http://darksouls3.wiki.fextralife.com/Londor+Pale+Shade\" target=\"_blank\" rel=\"noopener noreferrer\">Londor Pale Shade</a> e ganhar o gesto Duel Bow. Seu sinal de convocação está bem próximo à fogueira do Farron Keep Perimeter. (Nota: para poder invocar dois fantasmas ao mesmo tempo, você deve usar <a href=\"http://darksouls3.wiki.fextralife.com/Dried+Finger\" target=\"_blank\" rel=\"noopener noreferrer\">Dedo Seco</a>. Black Hand Gotthard e Londor Pale Shade também podem ser convocados para outra luta posterior, então não se preocupe em fazer todos os gestos aqui de uma vez)"
+        "html": "Se você se dá bem com Yuria, você também pode invocar o <a href=\"http://darksouls3.wiki.fextralife.com/Londor+Pale+Shade\" target=\"_blank\" rel=\"noopener noreferrer\">Londor Pale Shade</a> e ganhar o gesto Reverência de Duelo. Seu sinal de convocação está bem próximo à fogueira do Farron Keep Perimeter. (Nota: para poder invocar dois fantasmas ao mesmo tempo, você deve usar <a href=\"http://darksouls3.wiki.fextralife.com/Dried+Finger\" target=\"_blank\" rel=\"noopener noreferrer\">Dedo Seco</a>. Black Hand Gotthard e Londor Pale Shade também podem ser convocados para outra luta posterior, então não se preocupe em fazer todos os gestos aqui de uma vez)"
       },
       {
         "id": "playthrough_6_73",
@@ -2136,7 +2136,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_15_23",
         "class": "f_misc",
-        "html": "Da entrada do cemitério, desça as escadas à esquerda e novamente à esquerda para chegar a <a href=\"http://darksouls3.wiki.fextralife.com/Kukri\" target=\"_blank\" rel=\"noopener noreferrer\">Kukri x8</a> e <a href=\"http://darksouls3.wiki.fextralife.com/Rusted+Gold+Coin\" target=\"_blank\" rel=\"noopener noreferrer\">Rusted Gold Coin</a>"
+        "html": "Da entrada do cemitério, desça as escadas à esquerda e novamente à esquerda para chegar a <a href=\"http://darksouls3.wiki.fextralife.com/Kukri\" target=\"_blank\" rel=\"noopener noreferrer\">Kukri x8</a> e <a href=\"http://darksouls3.wiki.fextralife.com/Rusted+Gold+Coin\" target=\"_blank\" rel=\"noopener noreferrer\">Moeda Dourada Enferrujada</a>"
       },
       {
         "id": "playthrough_15_24",
@@ -2266,12 +2266,12 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_15_46",
         "class": "f_boss f_gest f_miss",
-        "html": "<a href=\"http://darksouls3.wiki.fextralife.com/Black+Hand+Gotthard\" target=\"_blank\" rel=\"noopener noreferrer\">Mão Negra Gotthard</a> pode ser convocado para a luta com o Pontífice Sulyvahn. Se esta for a primeira vez que você o invoca, você receberá o gesto By My Sword"
+        "html": "<a href=\"http://darksouls3.wiki.fextralife.com/Black+Hand+Gotthard\" target=\"_blank\" rel=\"noopener noreferrer\">Mão Negra Gotthard</a> pode ser convocado para a luta com o Pontífice Sulyvahn. Se esta for a primeira vez que você o invoca, você receberá o gesto Pela Minha Espada"
       },
       {
         "id": "playthrough_15_47",
         "class": "f_boss f_gest f_npc f_miss",
-        "html": "Se você estiver seguindo a linha de missão Yoel/Yuria, você pode invocar o <a href=\"http://darksouls3.wiki.fextralife.com/Londor+Pale+Shade\" target=\"_blank\" rel=\"noopener noreferrer\">Londor Pale Shade</a>. Se esta for a primeira vez que você os invoca, você receberá o gesto Duel Bow"
+        "html": "Se você estiver seguindo a linha de missão Yoel/Yuria, você pode invocar o <a href=\"http://darksouls3.wiki.fextralife.com/Londor+Pale+Shade\" target=\"_blank\" rel=\"noopener noreferrer\">Londor Pale Shade</a>. Se esta for a primeira vez que você os invoca, você receberá o gesto Reverência de Duelo"
       },
       {
         "id": "playthrough_15_48",
@@ -2301,7 +2301,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_15_53",
         "class": "f_tit",
-        "html": "Na mesma área estão dois Lagartos de Cristal que derrubam <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanite Cintilante</a>"
+        "html": "Na mesma área estão dois Lagartos de Cristal que derrubam <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante</a>"
       },
       {
         "id": "playthrough_15_54",
@@ -2341,7 +2341,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_15_60",
         "class": "f_cov f_gem f_misc f_ring",
-        "html": "Assim que você entrar no prédio depois do pátio gigante, haverá uma parede ilusória no lado esquerdo que revela uma longa escada para baixo. Desça e derrote duas das <a href=\"http://darksouls3.wiki.fextralife.com/Sulyvahn's+Beast\" target=\"_blank\" rel=\"noopener noreferrer\">Bestas de Sulyvahn</a> (matá-las concede a você o <a href=\"http://darksouls3.wiki.fextralife.com/Ring+of+Favor\" target=\"_blank\" rel=\"noopener noreferrer\">Anel do Favor</a>) e interaja com <a href=\"http://darksouls3.wiki.fextralife.com/Archdeacon+McDonnell\" target=\"_blank\" rel=\"noopener noreferrer\">Arquidiácono McDonnell</a> para ganhar o pacto <a href=\"http://darksouls3.wiki.fextralife.com/Aldrich+Faithful\" target=\"_blank\" rel=\"noopener noreferrer\">Aldrich Faithful</a>. Você também pode encontrar <a href=\"http://darksouls3.wiki.fextralife.com/Human+Dregs\" target=\"_blank\" rel=\"noopener noreferrer\">Human Dregs</a>, uma <a href=\"http://darksouls3.wiki.fextralife.com/Deep+Gem\" target=\"_blank\" rel=\"noopener noreferrer\">Deep Gem</a> e a fogueira da Reserva de Água nesta sala"
+        "html": "Assim que você entrar no prédio depois do pátio gigante, haverá uma parede ilusória no lado esquerdo que revela uma longa escada para baixo. Desça e derrote duas das <a href=\"http://darksouls3.wiki.fextralife.com/Sulyvahn's+Beast\" target=\"_blank\" rel=\"noopener noreferrer\">Bestas de Sulyvahn</a> (matá-las concede a você o <a href=\"http://darksouls3.wiki.fextralife.com/Ring+of+Favor\" target=\"_blank\" rel=\"noopener noreferrer\">Anel do Favor</a>) e interaja com <a href=\"http://darksouls3.wiki.fextralife.com/Archdeacon+McDonnell\" target=\"_blank\" rel=\"noopener noreferrer\">Arquidiácono McDonnell</a> para ganhar o pacto <a href=\"http://darksouls3.wiki.fextralife.com/Aldrich+Faithful\" target=\"_blank\" rel=\"noopener noreferrer\">Fiel de Aldrich</a>. Você também pode encontrar <a href=\"http://darksouls3.wiki.fextralife.com/Human+Dregs\" target=\"_blank\" rel=\"noopener noreferrer\">Human Dregs</a>, uma <a href=\"http://darksouls3.wiki.fextralife.com/Deep+Gem\" target=\"_blank\" rel=\"noopener noreferrer\">Deep Gem</a> e a fogueira da Reserva de Água nesta sala"
       },
       {
         "id": "playthrough_15_61",
@@ -2477,7 +2477,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_8_16",
         "class": "f_arm f_cov f_npc f_weap f_miss",
-        "html": "Se você está seguindo a missão de Sirris e derrotou Aldrich, viaje para Assentamento dos Mortos-Vivos através da fogueira do Cliff Underside ou da Ponte Dilapidada e volte para a sala antes da luta em Greatwood, apodrecida pela maldição. Você encontrará o sinal de convocação de Sirris logo antes do buraco gigante que leva ao Pit of Hollows. Você será convocado para lutar contra o <a href=\"http://darksouls3.wiki.fextralife.com/Holy+Knight+Hodrick\" target=\"_blank\" rel=\"noopener noreferrer\">Cavaleiro Sagrado Hodrick</a>, que é o avô de Sirris. Depois de derrotar o Cavaleiro Sagrado Hodrick, você ganhará o pacto <a href=\"http://darksouls3.wiki.fextralife.com/Mound-Maker\" target=\"_blank\" rel=\"noopener noreferrer\">Mound-makers</a> (se não tiver obtido antes). O <a href=\"http://darksouls3.wiki.fextralife.com/Sunset+Armor+Set\" target=\"_blank\" rel=\"noopener noreferrer\">Sunset Armor Set</a> estará disponível na área da fogueira Pit of Hollows e você encontrará o <a href=\"http://darksouls3.wiki.fextralife.com/Sunset+Shield\" target=\"_blank\" rel=\"noopener noreferrer\">Sunset Shield</a> em um túmulo no penhasco fora do Santuário do Elo do Fogo (do Fogueira Iudex Gundyr suba o primeiro lance de escadas, depois à direita)"
+        "html": "Se você está seguindo a missão de Sirris e derrotou Aldrich, viaje para Assentamento dos Mortos-Vivos através da fogueira do Cliff Underside ou da Ponte Dilapidada e volte para a sala antes da luta em Greatwood, apodrecida pela maldição. Você encontrará o sinal de convocação de Sirris logo antes do buraco gigante que leva ao Pit of Hollows. Você será convocado para lutar contra o <a href=\"http://darksouls3.wiki.fextralife.com/Holy+Knight+Hodrick\" target=\"_blank\" rel=\"noopener noreferrer\">Cavaleiro Sagrado Hodrick</a>, que é o avô de Sirris. Depois de derrotar o Cavaleiro Sagrado Hodrick, você ganhará o pacto <a href=\"http://darksouls3.wiki.fextralife.com/Mound-Maker\" target=\"_blank\" rel=\"noopener noreferrer\">Criadores de Montículos</a> (se não tiver obtido antes). O <a href=\"http://darksouls3.wiki.fextralife.com/Sunset+Armor+Set\" target=\"_blank\" rel=\"noopener noreferrer\">Sunset Armor Set</a> estará disponível na área da fogueira Pit of Hollows e você encontrará o <a href=\"http://darksouls3.wiki.fextralife.com/Sunset+Shield\" target=\"_blank\" rel=\"noopener noreferrer\">Sunset Shield</a> em um túmulo no penhasco fora do Santuário do Elo do Fogo (do Fogueira Iudex Gundyr suba o primeiro lance de escadas, depois à direita)"
       },
       {
         "id": "playthrough_8_17",
@@ -2493,7 +2493,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_16_1",
         "class": "f_misc f_tit",
-        "html": "Vá até a fogueira Distant Manor, siga o caminho para baixo e desça imediatamente para pegar uma <a href=\"http://darksouls3.wiki.fextralife.com/Rusted+Gold+Coin\" target=\"_blank\" rel=\"noopener noreferrer\">Rusted Gold Coin</a>. Desça mais para encontrar um <a href=\"http://darksouls3.wiki.fextralife.com/Large+Titanite+Shard\" target=\"_blank\" rel=\"noopener noreferrer\">Grande Fragmento de Titanita</a> atrás de um pilar"
+        "html": "Vá até a fogueira Distant Manor, siga o caminho para baixo e desça imediatamente para pegar uma <a href=\"http://darksouls3.wiki.fextralife.com/Rusted+Gold+Coin\" target=\"_blank\" rel=\"noopener noreferrer\">Moeda Dourada Enferrujada</a>. Desça mais para encontrar um <a href=\"http://darksouls3.wiki.fextralife.com/Large+Titanite+Shard\" target=\"_blank\" rel=\"noopener noreferrer\">Grande Fragmento de Titanita</a> atrás de um pilar"
       },
       {
         "id": "playthrough_16_2",
@@ -2503,7 +2503,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_16_3",
         "class": "f_misc",
-        "html": "A primeira célula à esquerda contém uma <a href=\"http://darksouls3.wiki.fextralife.com/Rusted+Coin\" target=\"_blank\" rel=\"noopener noreferrer\">Rusted Coin</a>"
+        "html": "A primeira célula à esquerda contém uma <a href=\"http://darksouls3.wiki.fextralife.com/Rusted+Coin\" target=\"_blank\" rel=\"noopener noreferrer\">Moeda Enferrujada</a>"
       },
       {
         "id": "playthrough_16_4",
@@ -2648,7 +2648,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_16_32",
         "class": "f_ash f_ring",
-        "html": "Na célula do lado esquerdo, você encontrará as <a href=\"http://darksouls3.wiki.fextralife.com/Xanthous+Ashes\" target=\"_blank\" rel=\"noopener noreferrer\">Xanthous Ashes</a> e o <a href=\"http://darksouls3.wiki.fextralife.com/Dusk+Crown+Ring\" target=\"_blank\" rel=\"noopener noreferrer\">Dusk Crown Ring</a>"
+        "html": "Na célula do lado esquerdo, você encontrará as <a href=\"http://darksouls3.wiki.fextralife.com/Xanthous+Ashes\" target=\"_blank\" rel=\"noopener noreferrer\">Cinzas de Xanthous</a> e o <a href=\"http://darksouls3.wiki.fextralife.com/Dusk+Crown+Ring\" target=\"_blank\" rel=\"noopener noreferrer\">Dusk Crown Ring</a>"
       },
       {
         "id": "playthrough_16_33",
@@ -2674,12 +2674,12 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_9_1",
         "class": "f_bone f_gest",
-        "html": "Na primeira fogueira você encontrará o cadáver do pobre Laddersmith Gilligan. Você receberá o gesto Stretch Out e um <a href=\"http://darksouls3.wiki.fextralife.com/Undead+Bone+Shard\" target=\"_blank\" rel=\"noopener noreferrer\">Fragmento de Osso Morto-Vivo</a> ao examiná-lo"
+        "html": "Na primeira fogueira você encontrará o cadáver do pobre Laddersmith Gilligan. Você receberá o gesto Esticar-se e um <a href=\"http://darksouls3.wiki.fextralife.com/Undead+Bone+Shard\" target=\"_blank\" rel=\"noopener noreferrer\">Fragmento de Osso Morto-Vivo</a> ao examiná-lo"
       },
       {
         "id": "playthrough_9_2",
         "class": "f_misc",
-        "html": "Desça novamente, saia usando o buraco na parede e pegue a escada à esquerda para encontrar <a href=\"http://darksouls3.wiki.fextralife.com/Rusted+Coin\" target=\"_blank\" rel=\"noopener noreferrer\">Rusted Coin x2</a>"
+        "html": "Desça novamente, saia usando o buraco na parede e pegue a escada à esquerda para encontrar <a href=\"http://darksouls3.wiki.fextralife.com/Rusted+Coin\" target=\"_blank\" rel=\"noopener noreferrer\">Moeda Enferrujada x2</a>"
       },
       {
         "id": "playthrough_9_32",
@@ -2784,12 +2784,12 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_9_20",
         "class": "f_none",
-        "html": "A partir daqui você também pode ir até onde fica a cela de Karla e mandá-la para o Santuário do Elo do Fogo. Dê a ela os dois tomos de piromancia restantes e, com algum esforço, você também pode dar a ela o <a href=\"http://darksouls3.wiki.fextralife.com/Londor+Braille+Divine+Tome\" target=\"_blank\" rel=\"noopener noreferrer\">Londor Braille Divine Tome</a> e o <a href=\"http://darksouls3.wiki.fextralife.com/Deep+Braille+Divine+Tome\" target=\"_blank\" rel=\"noopener noreferrer\">Deep Braille Divine Tome</a>. de corromper Irina"
+        "html": "A partir daqui você também pode ir até onde fica a cela de Karla e mandá-la para o Santuário do Elo do Fogo. Dê a ela os dois tomos de piromancia restantes e, com algum esforço, você também pode dar a ela o <a href=\"http://darksouls3.wiki.fextralife.com/Londor+Braille+Divine+Tome\" target=\"_blank\" rel=\"noopener noreferrer\">Tomo Divino em Braille de Londor</a> e o <a href=\"http://darksouls3.wiki.fextralife.com/Deep+Braille+Divine+Tome\" target=\"_blank\" rel=\"noopener noreferrer\">Tomo Divino em Braille das Profundezas</a>. de corromper Irina"
       },
       {
         "id": "playthrough_9_21",
         "class": "f_ash f_misc",
-        "html": "Teleporte-se para a fogueira da Masmorra de Irithyll e abra a última célula à direita na primeira seção para obter uma <a href=\"http://darksouls3.wiki.fextralife.com/Rusted+Gold+Coin\" target=\"_blank\" rel=\"noopener noreferrer\">Moeda de Ouro Enferrujada</a>. Agora desça antes da janela que você abriu antes, vire-se e abra a primeira célula à esquerda que contém as <a href=\"http://darksouls3.wiki.fextralife.com/Prisoner+Chief's+Ashes\" target=\"_blank\" rel=\"noopener noreferrer\">Prisoner Chief's Ashes</a>"
+        "html": "Teleporte-se para a fogueira da Masmorra de Irithyll e abra a última célula à direita na primeira seção para obter uma <a href=\"http://darksouls3.wiki.fextralife.com/Rusted+Gold+Coin\" target=\"_blank\" rel=\"noopener noreferrer\">Moeda de Ouro Enferrujada</a>. Agora desça antes da janela que você abriu antes, vire-se e abra a primeira célula à esquerda que contém as <a href=\"http://darksouls3.wiki.fextralife.com/Prisoner+Chief's+Ashes\" target=\"_blank\" rel=\"noopener noreferrer\">Cinzas do Chefe dos Prisioneiros</a>"
       },
       {
         "id": "playthrough_9_22",
@@ -2809,12 +2809,12 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_9_25",
         "class": "f_misc",
-        "html": "Desça mais abaixo e saqueie uma <a href=\"http://darksouls3.wiki.fextralife.com/Rusted+Coin\" target=\"_blank\" rel=\"noopener noreferrer\">Rusted Coin</a>. No final da plataforma você pode encontrar outra <a href=\"http://darksouls3.wiki.fextralife.com/Rusted+Coin\" target=\"_blank\" rel=\"noopener noreferrer\">Rusted Coin</a>"
+        "html": "Desça mais abaixo e saqueie uma <a href=\"http://darksouls3.wiki.fextralife.com/Rusted+Coin\" target=\"_blank\" rel=\"noopener noreferrer\">Moeda Enferrujada</a>. No final da plataforma você pode encontrar outra <a href=\"http://darksouls3.wiki.fextralife.com/Rusted+Coin\" target=\"_blank\" rel=\"noopener noreferrer\">Moeda Enferrujada</a>"
       },
       {
         "id": "playthrough_9_26",
         "class": "f_misc f_weap",
-        "html": "Antes do portão de neblina, vá para a direita para encontrar três baús. O baú mais à esquerda é um Mimic com o <a href=\"http://darksouls3.wiki.fextralife.com/Greatshield+of+Glory\" target=\"_blank\" rel=\"noopener noreferrer\">Grande Escudo da Glória</a>. O baú próximo a ele também é um Mimic, com <a href=\"http://darksouls3.wiki.fextralife.com/Rusted+Gold+Coin\" target=\"_blank\" rel=\"noopener noreferrer\">Rusted Gold Coin x2</a>. O baú direito é real e contém uma <a href=\"http://darksouls3.wiki.fextralife.com/Ember\" target=\"_blank\" rel=\"noopener noreferrer\">Ember</a>"
+        "html": "Antes do portão de neblina, vá para a direita para encontrar três baús. O baú mais à esquerda é um Mimic com o <a href=\"http://darksouls3.wiki.fextralife.com/Greatshield+of+Glory\" target=\"_blank\" rel=\"noopener noreferrer\">Grande Escudo da Glória</a>. O baú próximo a ele também é um Mimic, com <a href=\"http://darksouls3.wiki.fextralife.com/Rusted+Gold+Coin\" target=\"_blank\" rel=\"noopener noreferrer\">Moeda Dourada Enferrujada x2</a>. O baú direito é real e contém uma <a href=\"http://darksouls3.wiki.fextralife.com/Ember\" target=\"_blank\" rel=\"noopener noreferrer\">Ember</a>"
       },
       {
         "id": "playthrough_9_27",
@@ -2880,7 +2880,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_10_7",
         "class": "f_arm f_misc f_weap",
-        "html": "Perto de onde as lesmas estão você pode encontrar <a href=\"http://darksouls3.wiki.fextralife.com/Black+Firebomb\" target=\"_blank\" rel=\"noopener noreferrer\">Black Firebomb x2</a>, a <a href=\"http://darksouls3.wiki.fextralife.com/Claw\" target=\"_blank\" rel=\"noopener noreferrer\">Garra</a>, a <a href=\"http://darksouls3.wiki.fextralife.com/Shadow+Set\" target=\"_blank\" rel=\"noopener noreferrer\">Conjunto de Sombra</a> e uma <a href=\"http://darksouls3.wiki.fextralife.com/Human+Pine+Resin\" target=\"_blank\" rel=\"noopener noreferrer\">Resina de Pinho Humano</a>"
+        "html": "Perto de onde as lesmas estão você pode encontrar <a href=\"http://darksouls3.wiki.fextralife.com/Black+Bomba de Fogo\" target=\"_blank\" rel=\"noopener noreferrer\">Black Bomba de Fogo x2</a>, a <a href=\"http://darksouls3.wiki.fextralife.com/Claw\" target=\"_blank\" rel=\"noopener noreferrer\">Garra</a>, a <a href=\"http://darksouls3.wiki.fextralife.com/Shadow+Set\" target=\"_blank\" rel=\"noopener noreferrer\">Conjunto de Sombra</a> e uma <a href=\"http://darksouls3.wiki.fextralife.com/Human+Pine+Resin\" target=\"_blank\" rel=\"noopener noreferrer\">Resina de Pinho Humano</a>"
       },
       {
         "id": "playthrough_10_8",
@@ -3127,7 +3127,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_12_18",
         "class": "f_tit",
-        "html": "Desça a escada para encontrar <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanite Cintilante x2</a>"
+        "html": "Desça a escada para encontrar <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante x2</a>"
       },
       {
         "id": "playthrough_12_19",
@@ -3142,7 +3142,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_12_21",
         "class": "f_tit",
-        "html": "Vá para a área onde você fez o ataque de mergulho, mas desta vez suba a escada do outro lado para <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanite Cintilante x2</a>"
+        "html": "Vá para a área onde você fez o ataque de mergulho, mas desta vez suba a escada do outro lado para <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante x2</a>"
       },
       {
         "id": "playthrough_12_22",
@@ -3197,7 +3197,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_12_32",
         "class": "f_tit",
-        "html": "Conforme você avança, você encontrará um Wyvern. Você pode matar este dragão com segurança usando flechas. Matá-lo irá recompensá-lo com <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Chunk\" target=\"_blank\" rel=\"noopener noreferrer\">Pedaço de Titanita x6</a><span class=\"p\"> + </span><a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Scale\" target=\"_blank\" rel=\"noopener noreferrer\">Titanite+Scale x3</a><span class=\"p\"> + </span><a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanite Cintilante x3</a> e 50.000 almas"
+        "html": "Conforme você avança, você encontrará um Wyvern. Você pode matar este dragão com segurança usando flechas. Matá-lo irá recompensá-lo com <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Chunk\" target=\"_blank\" rel=\"noopener noreferrer\">Pedaço de Titanita x6</a><span class=\"p\"> + </span><a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Scale\" target=\"_blank\" rel=\"noopener noreferrer\">Titanite+Scale x3</a><span class=\"p\"> + </span><a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante x3</a> e 50.000 almas"
       },
       {
         "id": "playthrough_12_33",
@@ -3227,7 +3227,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_12_38",
         "class": "f_ash",
-        "html": "No caminho até a colina para pegar a Twinkling Dragon Torso Stone, você encontrará as <a href=\"http://darksouls3.wiki.fextralife.com/Dragon+Chaser's+Ashes\" target=\"_blank\" rel=\"noopener noreferrer\">Dragon Chaser's Ashes</a> no lado esquerdo"
+        "html": "No caminho até a colina para pegar a Twinkling Dragon Torso Stone, você encontrará as <a href=\"http://darksouls3.wiki.fextralife.com/Dragon+Chaser's+Ashes\" target=\"_blank\" rel=\"noopener noreferrer\">Cinzas do Perseguidor de Dragões</a> no lado esquerdo"
       },
       {
         "id": "playthrough_12_48",
@@ -3237,7 +3237,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_12_39",
         "class": "f_tit",
-        "html": "Desça a colina e passe pela estrutura à esquerda para chegar a uma escada. Ao lado da escada há um baú com <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanite Cintilante x3</a>"
+        "html": "Desça a colina e passe pela estrutura à esquerda para chegar a uma escada. Ao lado da escada há um baú com <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante x3</a>"
       },
       {
         "id": "playthrough_12_40",
@@ -3313,7 +3313,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_13_5",
         "class": "f_arm f_tit f_weap",
-        "html": "Continue para fora e entre na sala à direita. Haverá um Cavaleiro Alado com machados duplos e um <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanite Cintilante</a> atrás da escada. Suba a escada e haverá uma parede ilusória para uma sala com o <a href=\"http://darksouls3.wiki.fextralife.com/Winged+Knight+Set\" target=\"_blank\" rel=\"noopener noreferrer\">Conjunto do Cavaleiro Alado</a> e o <a href=\"http://darksouls3.wiki.fextralife.com/Sacred+Bloom+Shield\" target=\"_blank\" rel=\"noopener noreferrer\">Escudo da Flor Sagrada</a>"
+        "html": "Continue para fora e entre na sala à direita. Haverá um Cavaleiro Alado com machados duplos e um <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante</a> atrás da escada. Suba a escada e haverá uma parede ilusória para uma sala com o <a href=\"http://darksouls3.wiki.fextralife.com/Winged+Knight+Set\" target=\"_blank\" rel=\"noopener noreferrer\">Conjunto do Cavaleiro Alado</a> e o <a href=\"http://darksouls3.wiki.fextralife.com/Sacred+Bloom+Shield\" target=\"_blank\" rel=\"noopener noreferrer\">Escudo da Flor Sagrada</a>"
       },
       {
         "id": "playthrough_13_6",
@@ -3368,7 +3368,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_13_16",
         "class": "f_tit f_miss",
-        "html": "Mate o Lagarto de Cristal lá fora para <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanite Cintilante x2</a>. (Nota: Se você matar este lagarto e depois morrer ou recarregar antes de matar o segundo nesta área, esse lagarto desaparecerá permanentemente)"
+        "html": "Mate o Lagarto de Cristal lá fora para <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante x2</a>. (Nota: Se você matar este lagarto e depois morrer ou recarregar antes de matar o segundo nesta área, esse lagarto desaparecerá permanentemente)"
       },
       {
         "id": "playthrough_13_17",
@@ -3393,12 +3393,12 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_13_21",
         "class": "f_tit f_weap",
-        "html": "Desça as escadas para encontrar um <a href=\"http://darksouls3.wiki.fextralife.com/Boreal+Outrider+Knight\" target=\"_blank\" rel=\"noopener noreferrer\">Boreal Outrider Knight</a> em um porão. Depois de matá-lo, você receberá o <a href=\"http://darksouls3.wiki.fextralife.com/Irithyll+Rapier\" target=\"_blank\" rel=\"noopener noreferrer\">Irithyll Rapier</a>. Nesta sala você também encontrará quatro baús contendo <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanite Cintilante x2</a>, um único <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanite Cintilante</a>, um <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Scale\" target=\"_blank\" rel=\"noopener noreferrer\">Escama de Titanita</a> e o <a href=\"http://darksouls3.wiki.fextralife.com/Spirit+Tree+Crest+Shield\" target=\"_blank\" rel=\"noopener noreferrer\">Escudo de Crista da Árvore Espiritual</a>"
+        "html": "Desça as escadas para encontrar um <a href=\"http://darksouls3.wiki.fextralife.com/Boreal+Outrider+Knight\" target=\"_blank\" rel=\"noopener noreferrer\">Boreal Outrider Knight</a> em um porão. Depois de matá-lo, você receberá o <a href=\"http://darksouls3.wiki.fextralife.com/Irithyll+Rapier\" target=\"_blank\" rel=\"noopener noreferrer\">Irithyll Rapier</a>. Nesta sala você também encontrará quatro baús contendo <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante x2</a>, um único <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante</a>, um <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Scale\" target=\"_blank\" rel=\"noopener noreferrer\">Escama de Titanita</a> e o <a href=\"http://darksouls3.wiki.fextralife.com/Spirit+Tree+Crest+Shield\" target=\"_blank\" rel=\"noopener noreferrer\">Escudo de Crista da Árvore Espiritual</a>"
       },
       {
         "id": "playthrough_13_22",
         "class": "f_misc",
-        "html": "Pegue o caminho direto onde os wyverns cuspiam fogo e à esquerda na próxima sala está <a href=\"http://darksouls3.wiki.fextralife.com/Black+Firebomb\" target=\"_blank\" rel=\"noopener noreferrer\">Black Firebomb x3</a>. Suba a escada e na borda está uma <a href=\"http://darksouls3.wiki.fextralife.com/Large+Soul+of+a+Nameless+Soldier\" target=\"_blank\" rel=\"noopener noreferrer\">Grande Alma de um Soldado Sem Nome</a>"
+        "html": "Pegue o caminho direto onde os wyverns cuspiam fogo e à esquerda na próxima sala está <a href=\"http://darksouls3.wiki.fextralife.com/Black+Bomba de Fogo\" target=\"_blank\" rel=\"noopener noreferrer\">Black Bomba de Fogo x3</a>. Suba a escada e na borda está uma <a href=\"http://darksouls3.wiki.fextralife.com/Large+Soul+of+a+Nameless+Soldier\" target=\"_blank\" rel=\"noopener noreferrer\">Grande Alma de um Soldado Sem Nome</a>"
       },
       {
         "id": "playthrough_13_23",
@@ -3458,7 +3458,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_13_33",
         "class": "f_misc f_tit",
-        "html": "De costas para a entrada da luta contra o chefe da Dragonslayer Armor, uma porta iluminada por tochas fica à esquerda. Passe pela porta e suba as escadas. À direita está <a href=\"http://darksouls3.wiki.fextralife.com/Rusted+Coin\" target=\"_blank\" rel=\"noopener noreferrer\">Rusted Coin x2</a>, bem como um baú com uma <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Scale\" target=\"_blank\" rel=\"noopener noreferrer\">Escama de Titanita</a>"
+        "html": "De costas para a entrada da luta contra o chefe da Dragonslayer Armor, uma porta iluminada por tochas fica à esquerda. Passe pela porta e suba as escadas. À direita está <a href=\"http://darksouls3.wiki.fextralife.com/Rusted+Coin\" target=\"_blank\" rel=\"noopener noreferrer\">Moeda Enferrujada x2</a>, bem como um baú com uma <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Scale\" target=\"_blank\" rel=\"noopener noreferrer\">Escama de Titanita</a>"
       },
       {
         "id": "playthrough_13_34",
@@ -3533,7 +3533,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_13_46",
         "class": "f_npc f_miss",
-        "html": "Irina B: Se você deu a Irina o <a href=\"http://darksouls3.wiki.fextralife.com/Londor+Braille+Divine+Tome\" target=\"_blank\" rel=\"noopener noreferrer\">Londor Braille Divine Tome</a> ou <a href=\"http://darksouls3.wiki.fextralife.com/Deep+Braille+Divine+Tome\" target=\"_blank\" rel=\"noopener noreferrer\">Deep Braille Divine Tome</a> e comprou QUALQUER um desses feitiços (Deep Protection, Gnaw, Dark Blade, Vow of Silence ou Dead Again), ela terá desaparecido para você em algum momento do jogo de sua localização normal no Santuário do Elo do Fogo. Ela então estaria perto da área de luta de Iudex Gundyr com Eygon. Eygon acreditará que você a matou e será hostil. Ao matá-lo, você vê que Irina ainda está viva, mas a corrupção começou para ela. Esta é uma forma alternativa de o Conjunto de Armadura de Morne estar disponível para compra. Depois que Irina retornar ao Santuário do Elo do Fogo, comprar todos os milagres sombrios listados acima irá corrompê-la totalmente e ela não atuará mais como vendedora para você. Equipar as Manoplas de Morne permite que ela acredite que você é Eygon e ela pedirá para ser morta. Faça isso e você poderá dar suas cinzas à Serva do Santuário para vender seus milagres."
+        "html": "Irina B: Se você deu a Irina o <a href=\"http://darksouls3.wiki.fextralife.com/Londor+Braille+Divine+Tome\" target=\"_blank\" rel=\"noopener noreferrer\">Tomo Divino em Braille de Londor</a> ou <a href=\"http://darksouls3.wiki.fextralife.com/Deep+Braille+Divine+Tome\" target=\"_blank\" rel=\"noopener noreferrer\">Tomo Divino em Braille das Profundezas</a> e comprou QUALQUER um desses feitiços (Deep Protection, Gnaw, Dark Blade, Vow of Silence ou Dead Again), ela terá desaparecido para você em algum momento do jogo de sua localização normal no Santuário do Elo do Fogo. Ela então estaria perto da área de luta de Iudex Gundyr com Eygon. Eygon acreditará que você a matou e será hostil. Ao matá-lo, você vê que Irina ainda está viva, mas a corrupção começou para ela. Esta é uma forma alternativa de o Conjunto de Armadura de Morne estar disponível para compra. Depois que Irina retornar ao Santuário do Elo do Fogo, comprar todos os milagres sombrios listados acima irá corrompê-la totalmente e ela não atuará mais como vendedora para você. Equipar as Manoplas de Morne permite que ela acredite que você é Eygon e ela pedirá para ser morta. Faça isso e você poderá dar suas cinzas à Serva do Santuário para vender seus milagres."
       }
     ]
   },
@@ -3564,7 +3564,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_18_4",
         "class": "f_gem f_tit",
-        "html": "No lado esquerdo dos arquivos está um Lagarto de Cristal que derruba <a href=\"http://darksouls3.wiki.fextralife.com/Crystal+Gem\" target=\"_blank\" rel=\"noopener noreferrer\">Gema de Cristal</a><span class=\"p\"> + </span><a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanite Cintilante</a>"
+        "html": "No lado esquerdo dos arquivos está um Lagarto de Cristal que derruba <a href=\"http://darksouls3.wiki.fextralife.com/Crystal+Gem\" target=\"_blank\" rel=\"noopener noreferrer\">Gema de Cristal</a><span class=\"p\"> + </span><a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante</a>"
       },
       {
         "id": "playthrough_18_5",
@@ -3599,7 +3599,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_18_11",
         "class": "f_gem f_misc f_tit",
-        "html": "Avance para a sala escura, que tem dois Lagartos de Cristal que derrubam <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante</a><span class=\"p\"> + </span><a href=\"http://darksouls3.wiki.fextralife.com/Chaos+Gem\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos Gem</a> e <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanite Cintilante x2</a>, bem como um cadáver com uma <a href=\"http://darksouls3.wiki.fextralife.com/Soul+of+a+Nameless+Soldier\" target=\"_blank\" rel=\"noopener noreferrer\">Alma de um Soldado Sem Nome</a>"
+        "html": "Avance para a sala escura, que tem dois Lagartos de Cristal que derrubam <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante</a><span class=\"p\"> + </span><a href=\"http://darksouls3.wiki.fextralife.com/Chaos+Gem\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos Gem</a> e <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante x2</a>, bem como um cadáver com uma <a href=\"http://darksouls3.wiki.fextralife.com/Soul+of+a+Nameless+Soldier\" target=\"_blank\" rel=\"noopener noreferrer\">Alma de um Soldado Sem Nome</a>"
       },
       {
         "id": "playthrough_18_12",
@@ -3624,7 +3624,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_18_16",
         "class": "f_tit",
-        "html": "À esquerda está um Lagarto de Cristal que derruba <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanite Cintilante x2</a>"
+        "html": "À esquerda está um Lagarto de Cristal que derruba <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante x2</a>"
       },
       {
         "id": "playthrough_18_17",
@@ -3699,7 +3699,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_18_30",
         "class": "f_gem f_ring f_tit",
-        "html": "Na próxima sala está um Lagarto de Cristal com <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanite Cintilante</a><span class=\"p\"> + </span><a href=\"http://darksouls3.wiki.fextralife.com/Refined+Gem\" target=\"_blank\" rel=\"noopener noreferrer\">Gema Refinada</a>. O <a href=\"http://darksouls3.wiki.fextralife.com/Fleshbite+Ring\" target=\"_blank\" rel=\"noopener noreferrer\">Anel da Picada de Carne</a> estará à direita dele"
+        "html": "Na próxima sala está um Lagarto de Cristal com <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante</a><span class=\"p\"> + </span><a href=\"http://darksouls3.wiki.fextralife.com/Refined+Gem\" target=\"_blank\" rel=\"noopener noreferrer\">Gema Refinada</a>. O <a href=\"http://darksouls3.wiki.fextralife.com/Fleshbite+Ring\" target=\"_blank\" rel=\"noopener noreferrer\">Anel da Picada de Carne</a> estará à direita dele"
       },
       {
         "id": "playthrough_18_31",
@@ -3714,7 +3714,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_18_33",
         "class": "f_gem f_tit",
-        "html": "No grande telhado à esquerda estão dois Lagartos de Cristal que derrubam <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanite Cintilante</a><span class=\"p\"> + </span><a href=\"http://darksouls3.wiki.fextralife.com/Heavy+Gem\" target=\"_blank\" rel=\"noopener noreferrer\">Gema Pesada</a> e <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanite Cintilante</a><span class=\"p\"> + </span><a href=\"http://darksouls3.wiki.fextralife.com/Sharp+Gem\" target=\"_blank\" rel=\"noopener noreferrer\">Joia Afiada</a>"
+        "html": "No grande telhado à esquerda estão dois Lagartos de Cristal que derrubam <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante</a><span class=\"p\"> + </span><a href=\"http://darksouls3.wiki.fextralife.com/Heavy+Gem\" target=\"_blank\" rel=\"noopener noreferrer\">Gema Pesada</a> e <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante</a><span class=\"p\"> + </span><a href=\"http://darksouls3.wiki.fextralife.com/Sharp+Gem\" target=\"_blank\" rel=\"noopener noreferrer\">Joia Afiada</a>"
       },
       {
         "id": "playthrough_18_34",
@@ -3799,7 +3799,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_18_48",
         "class": "f_misc f_tit",
-        "html": "Desça até as vigas de pedra e desça a escada lateral com a larva do homem. Aqui embaixo estão dois baús contendo uma <a href=\"http://darksouls3.wiki.fextralife.com/Divine+Blessing\" target=\"_blank\" rel=\"noopener noreferrer\">Bênção Divina</a> e <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanite Cintilante x3</a>"
+        "html": "Desça até as vigas de pedra e desça a escada lateral com a larva do homem. Aqui embaixo estão dois baús contendo uma <a href=\"http://darksouls3.wiki.fextralife.com/Divine+Blessing\" target=\"_blank\" rel=\"noopener noreferrer\">Bênção Divina</a> e <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante x3</a>"
       },
       {
         "id": "playthrough_18_49",
@@ -3941,7 +3941,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_20_8",
         "class": "f_misc",
-        "html": "Volte para onde você parou e no meio da floresta, próximo a uma árvore, há uma <a href=\"http://darksouls3.wiki.fextralife.com/Rusted+Coin\" target=\"_blank\" rel=\"noopener noreferrer\">Rusted Coin</a>"
+        "html": "Volte para onde você parou e no meio da floresta, próximo a uma árvore, há uma <a href=\"http://darksouls3.wiki.fextralife.com/Rusted+Coin\" target=\"_blank\" rel=\"noopener noreferrer\">Moeda Enferrujada</a>"
       },
       {
         "id": "playthrough_20_9",
@@ -3986,7 +3986,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_20_17",
         "class": "f_tit",
-        "html": "No próximo lance de escadas está um Lagarto de Cristal com uma <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanite Cintilante</a>"
+        "html": "No próximo lance de escadas está um Lagarto de Cristal com uma <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante</a>"
       },
       {
         "id": "playthrough_20_18",
@@ -4031,7 +4031,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_20_26",
         "class": "f_misc f_sorc",
-        "html": "Vá para a esquerda daqui e pegue <a href=\"http://darksouls3.wiki.fextralife.com/Black+Firebomb\" target=\"_blank\" rel=\"noopener noreferrer\">Black Firebomb x2</a> subindo a colina. No poço das larvas está a feitiçaria <a href=\"http://darksouls3.wiki.fextralife.com/Frozen+Weapon\" target=\"_blank\" rel=\"noopener noreferrer\">Arma Congelada</a>"
+        "html": "Vá para a esquerda daqui e pegue <a href=\"http://darksouls3.wiki.fextralife.com/Black+Bomba de Fogo\" target=\"_blank\" rel=\"noopener noreferrer\">Black Bomba de Fogo x2</a> subindo a colina. No poço das larvas está a feitiçaria <a href=\"http://darksouls3.wiki.fextralife.com/Frozen+Weapon\" target=\"_blank\" rel=\"noopener noreferrer\">Arma Congelada</a>"
       },
       {
         "id": "playthrough_20_27",
@@ -4341,7 +4341,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_20_88",
         "class": "f_tit",
-        "html": "Nesta sala estão dois Lagartos de Cristal que derrubam uma <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanite Cintilante</a>"
+        "html": "Nesta sala estão dois Lagartos de Cristal que derrubam uma <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante</a>"
       },
       {
         "id": "playthrough_20_89",
@@ -4427,7 +4427,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_21_6",
         "class": "f_misc",
-        "html": "Depois de sair da igreja, vá para a direita e você encontrará <a href=\"http://darksouls3.wiki.fextralife.com/Rusted+Coin\" target=\"_blank\" rel=\"noopener noreferrer\">Rusted Coin x2</a> próximo à fonte"
+        "html": "Depois de sair da igreja, vá para a direita e você encontrará <a href=\"http://darksouls3.wiki.fextralife.com/Rusted+Coin\" target=\"_blank\" rel=\"noopener noreferrer\">Moeda Enferrujada x2</a> próximo à fonte"
       },
       {
         "id": "playthrough_21_7",
@@ -4452,7 +4452,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_21_11",
         "class": "f_tit",
-        "html": "Volte para a igreja e vire à esquerda. Uma torre desabará na igreja. Continue um pouco mais para encontrar e matar o primeiro Invocador de Anjos para <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanite Cintilante x2</a>"
+        "html": "Volte para a igreja e vire à esquerda. Uma torre desabará na igreja. Continue um pouco mais para encontrar e matar o primeiro Invocador de Anjos para <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante x2</a>"
       },
       {
         "id": "playthrough_21_12",
@@ -4487,12 +4487,12 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_21_16",
         "class": "f_tit",
-        "html": "Considere matar os dois Invocadores de Anjos antes de procurar os itens nas ruínas. Cada um deles dropa <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanite Cintilante x2</a>"
+        "html": "Considere matar os dois Invocadores de Anjos antes de procurar os itens nas ruínas. Cada um deles dropa <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante x2</a>"
       },
       {
         "id": "playthrough_21_17",
         "class": "f_misc",
-        "html": "Ao lado das pás do moinho de vento está <a href=\"http://darksouls3.wiki.fextralife.com/Black+Firebomb\" target=\"_blank\" rel=\"noopener noreferrer\">Black Firebomb x4</a>"
+        "html": "Ao lado das pás do moinho de vento está <a href=\"http://darksouls3.wiki.fextralife.com/Black+Bomba de Fogo\" target=\"_blank\" rel=\"noopener noreferrer\">Black Bomba de Fogo x4</a>"
       },
       {
         "id": "playthrough_21_18",
@@ -4587,12 +4587,12 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_21_35",
         "class": "f_arm f_misc",
-        "html": "Neste caminho você pode encontrar <a href=\"http://darksouls3.wiki.fextralife.com/Prism+Stone\" target=\"_blank\" rel=\"noopener noreferrer\">Prism Stone x6</a> e o <a href=\"http://darksouls3.wiki.fextralife.com/Desert+Pyromancer+Hood\" target=\"_blank\" rel=\"noopener noreferrer\">Desert Pyromancer Hood</a>"
+        "html": "Neste caminho você pode encontrar <a href=\"http://darksouls3.wiki.fextralife.com/Prism+Stone\" target=\"_blank\" rel=\"noopener noreferrer\">Pedra de Prisma x6</a> e o <a href=\"http://darksouls3.wiki.fextralife.com/Desert+Pyromancer+Hood\" target=\"_blank\" rel=\"noopener noreferrer\">Desert Pyromancer Hood</a>"
       },
       {
         "id": "playthrough_21_46",
         "class": "f_tit",
-        "html": "Das raízes, vá para a raiz menor à direita para encontrar uma <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanite Cintilante</a>"
+        "html": "Das raízes, vá para a raiz menor à direita para encontrar uma <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante</a>"
       },
       {
         "id": "playthrough_21_36",
@@ -4733,7 +4733,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_22_28",
         "class": "f_misc",
-        "html": "Vire à direita para encontrar algumas escadas que levam à <a href=\"http://darksouls3.wiki.fextralife.com/Prism+Stone\" target=\"_blank\" rel=\"noopener noreferrer\">Prism Stone x4</a> e à fogueira da Ringed City Streets"
+        "html": "Vire à direita para encontrar algumas escadas que levam à <a href=\"http://darksouls3.wiki.fextralife.com/Prism+Stone\" target=\"_blank\" rel=\"noopener noreferrer\">Pedra de Prisma x4</a> e à fogueira da Ringed City Streets"
       },
       {
         "id": "playthrough_22_27",
@@ -4768,7 +4768,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_22_41",
         "class": "f_tit",
-        "html": "Vá até o telhado da igreja e na parte de trás há uma <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanite Cintilante</a>"
+        "html": "Vá até o telhado da igreja e na parte de trás há uma <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante</a>"
       },
       {
         "id": "playthrough_22_42",
@@ -4778,7 +4778,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_22_43",
         "class": "f_none",
-        "html": "Vá para o pântano e, quando estiver nele, continue usando <a href=\"http://darksouls3.wiki.fextralife.com/Young+White+Branch\" target=\"_blank\" rel=\"noopener noreferrer\">Young White Branches</a> até se transformar em uma <a href=\"https://darksouls.wiki.fextralife.com/Giant+Humanity\" target=\"_blank\" rel=\"noopener noreferrer\">Humanidade</a>. (Nota: você só pode andar nesta forma.) Agora volte para a sala onde você abriu o atalho e haverá alguns escritos na parede à esquerda do portão. Fique na frente dele e uma escada cairá"
+        "html": "Vá para o pântano e, quando estiver nele, continue usando <a href=\"http://darksouls3.wiki.fextralife.com/Young+White+Branch\" target=\"_blank\" rel=\"noopener noreferrer\">Ramo Branco Jovemes</a> até se transformar em uma <a href=\"https://darksouls.wiki.fextralife.com/Giant+Humanity\" target=\"_blank\" rel=\"noopener noreferrer\">Humanidade</a>. (Nota: você só pode andar nesta forma.) Agora volte para a sala onde você abriu o atalho e haverá alguns escritos na parede à esquerda do portão. Fique na frente dele e uma escada cairá"
       },
       {
         "id": "playthrough_22_45",
@@ -4803,7 +4803,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_22_21",
         "class": "f_tit",
-        "html": "Saia da sala, circule ao redor da estrutura em seu caminho e atravesse uma ponte para encontrar um <a href=\"http://darksouls3.wiki.fextralife.com/Crystal+Lizard\" target=\"_blank\" rel=\"noopener noreferrer\">Lagarto de Cristal</a> que derruba <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanite Cintilante x2</a>"
+        "html": "Saia da sala, circule ao redor da estrutura em seu caminho e atravesse uma ponte para encontrar um <a href=\"http://darksouls3.wiki.fextralife.com/Crystal+Lizard\" target=\"_blank\" rel=\"noopener noreferrer\">Lagarto de Cristal</a> que derruba <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante x2</a>"
       },
       {
         "id": "playthrough_22_23",
@@ -4833,7 +4833,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_22_32",
         "class": "f_tit",
-        "html": "Mantenha-se à esquerda até encontrar uma cúpula afundada atrás da qual há uma <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanite Cintilante</a>"
+        "html": "Mantenha-se à esquerda até encontrar uma cúpula afundada atrás da qual há uma <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante</a>"
       },
       {
         "id": "playthrough_22_33",
@@ -4923,7 +4923,7 @@ const PLAYTHROUGH_AREAS_DATA = [
       {
         "id": "playthrough_22_58",
         "class": "f_tit",
-        "html": "Depois de acender a fogueira, você pode matar o <a href=\"http://darksouls3.wiki.fextralife.com/Crystal+Lizard\" target=\"_blank\" rel=\"noopener noreferrer\">Lagarto de Cristal</a>, que derruba <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanite Cintilante</a><span class=\"p\"> + </span><a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Scale\" target=\"_blank\" rel=\"noopener noreferrer\">Escama de Titanita</a>"
+        "html": "Depois de acender a fogueira, você pode matar o <a href=\"http://darksouls3.wiki.fextralife.com/Crystal+Lizard\" target=\"_blank\" rel=\"noopener noreferrer\">Lagarto de Cristal</a>, que derruba <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante</a><span class=\"p\"> + </span><a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Scale\" target=\"_blank\" rel=\"noopener noreferrer\">Escama de Titanita</a>"
       },
       {
         "id": "playthrough_22_59",

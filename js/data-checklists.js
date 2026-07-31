@@ -198,7 +198,7 @@ const CHECKLISTS_DATA = {
             {
               "id": "checklist_5_38",
               "class": "f_misc",
-              "html": "<a href=\"http://darksouls3.wiki.fextralife.com/Wolf+Ring\" target=\"_blank\" rel=\"noopener noreferrer\">Wolf Ring</a>: Obtido ao alcançar o rank 2 no pacto Watchdogs of Farron"
+              "html": "<a href=\"http://darksouls3.wiki.fextralife.com/Wolf+Ring\" target=\"_blank\" rel=\"noopener noreferrer\">Wolf Ring</a>: Obtido ao alcançar o rank 2 no pacto Cães de Guarda de Farron"
             },
             {
               "id": "checklist_5_39",
@@ -550,7 +550,7 @@ const CHECKLISTS_DATA = {
             {
               "id": "checklist_5_105",
               "class": "f_misc",
-              "html": "<a href=\"http://darksouls3.wiki.fextralife.com/Ring+of+the+Evil+Eye\" target=\"_blank\" rel=\"noopener noreferrer\">Ring of the Evil Eye+2</a>: Em um canto atrás de alguns barris na sala em High Wall of Lothric onde a chave da cela de Greirat e o primeiro Estus Shard foram encontrados"
+              "html": "<a href=\"http://darksouls3.wiki.fextralife.com/Ring+of+the+Evil+Eye\" target=\"_blank\" rel=\"noopener noreferrer\">Ring of the Evil Eye+2</a>: Em um canto atrás de alguns barris na sala em High Wall of Lothric onde a chave da cela de Greirat e o primeiro Fragmento de Estus foram encontrados"
             },
             {
               "id": "checklist_5_107",
@@ -786,7 +786,7 @@ const CHECKLISTS_DATA = {
             {
               "id": "checklist_2_32",
               "class": "f_misc",
-              "html": "<a href=\"http://darksouls3.wiki.fextralife.com/Great+Deep+Soul\" target=\"_blank\" rel=\"noopener noreferrer\">Great Deep Soul</a>: <a href=\"http://darksouls3.wiki.fextralife.com/Aldrich+Faithful\" target=\"_blank\" rel=\"noopener noreferrer\">Aldrich Faithful</a> Recompensa de nível 1"
+              "html": "<a href=\"http://darksouls3.wiki.fextralife.com/Great+Deep+Soul\" target=\"_blank\" rel=\"noopener noreferrer\">Great Deep Soul</a>: <a href=\"http://darksouls3.wiki.fextralife.com/Aldrich+Faithful\" target=\"_blank\" rel=\"noopener noreferrer\">Fiel de Aldrich</a> Recompensa de nível 1"
             },
             {
               "id": "checklist_2_33",
@@ -1097,17 +1097,17 @@ const CHECKLISTS_DATA = {
             {
               "id": "checklist_4_28",
               "class": "f_misc",
-              "html": "<a href=\"http://darksouls3.wiki.fextralife.com/Dark+Blade\" target=\"_blank\" rel=\"noopener noreferrer\">Dark Blade</a>: Comprado de <a href=\"http://darksouls3.wiki.fextralife.com/Irina+of+Carim\" target=\"_blank\" rel=\"noopener noreferrer\">Irina of Carim</a> por 10.000 almas. Requer <a href=\"http://darksouls3.wiki.fextralife.com/Londor+Braille+Divine+Tome\" target=\"_blank\" rel=\"noopener noreferrer\">Londor Braille Divine Tome</a>"
+              "html": "<a href=\"http://darksouls3.wiki.fextralife.com/Dark+Blade\" target=\"_blank\" rel=\"noopener noreferrer\">Dark Blade</a>: Comprado de <a href=\"http://darksouls3.wiki.fextralife.com/Irina+of+Carim\" target=\"_blank\" rel=\"noopener noreferrer\">Irina of Carim</a> por 10.000 almas. Requer <a href=\"http://darksouls3.wiki.fextralife.com/Londor+Braille+Divine+Tome\" target=\"_blank\" rel=\"noopener noreferrer\">Tomo Divino em Braille de Londor</a>"
             },
             {
               "id": "checklist_4_29",
               "class": "f_misc",
-              "html": "<a href=\"http://darksouls3.wiki.fextralife.com/Vow+of+Silence\" target=\"_blank\" rel=\"noopener noreferrer\">Voto de Silêncio</a>: Comprado de <a href=\"http://darksouls3.wiki.fextralife.com/Irina+of+Carim\" target=\"_blank\" rel=\"noopener noreferrer\">Irina de Carim</a> por 15.000 almas. Requer <a href=\"http://darksouls3.wiki.fextralife.com/Londor+Braille+Divine+Tome\" target=\"_blank\" rel=\"noopener noreferrer\">Londor Braille Divine Tome</a>"
+              "html": "<a href=\"http://darksouls3.wiki.fextralife.com/Vow+of+Silence\" target=\"_blank\" rel=\"noopener noreferrer\">Voto de Silêncio</a>: Comprado de <a href=\"http://darksouls3.wiki.fextralife.com/Irina+of+Carim\" target=\"_blank\" rel=\"noopener noreferrer\">Irina de Carim</a> por 15.000 almas. Requer <a href=\"http://darksouls3.wiki.fextralife.com/Londor+Braille+Divine+Tome\" target=\"_blank\" rel=\"noopener noreferrer\">Tomo Divino em Braille de Londor</a>"
             },
             {
               "id": "checklist_4_30",
               "class": "f_misc",
-              "html": "<a href=\"http://darksouls3.wiki.fextralife.com/Dead+Again\" target=\"_blank\" rel=\"noopener noreferrer\">Morto de novo</a>: Comprado de <a href=\"http://darksouls3.wiki.fextralife.com/Irina+of+Carim\" target=\"_blank\" rel=\"noopener noreferrer\">Irina de Carim</a> por 5.000 almas. Requer <a href=\"http://darksouls3.wiki.fextralife.com/Londor+Braille+Divine+Tome\" target=\"_blank\" rel=\"noopener noreferrer\">Londor Braille Divine Tome</a>"
+              "html": "<a href=\"http://darksouls3.wiki.fextralife.com/Dead+Again\" target=\"_blank\" rel=\"noopener noreferrer\">Morto de novo</a>: Comprado de <a href=\"http://darksouls3.wiki.fextralife.com/Irina+of+Carim\" target=\"_blank\" rel=\"noopener noreferrer\">Irina de Carim</a> por 5.000 almas. Requer <a href=\"http://darksouls3.wiki.fextralife.com/Londor+Braille+Divine+Tome\" target=\"_blank\" rel=\"noopener noreferrer\">Tomo Divino em Braille de Londor</a>"
             },
             {
               "id": "checklist_4_31",
@@ -1248,7 +1248,7 @@ const CHECKLISTS_DATA = {
             {
               "id": "checklist_1_8",
               "class": "f_misc",
-              "html": "<strong>Praise the Sun</strong>: Recebido ao orar no Altar da Luz Solar em <a href=\"http://darksouls3.wiki.fextralife.com/Lothric+Castle\" target=\"_blank\" rel=\"noopener noreferrer\">Castelo de Lothric</a>, perto da luta contra o chefe da <a href=\"http://darksouls3.wiki.fextralife.com/Dragonslayer+Armour\" target=\"_blank\" rel=\"noopener noreferrer\">Dragonslayer Armor</a>"
+              "html": "<strong>Louve o Sol</strong>: Recebido ao orar no Altar da Luz Solar em <a href=\"http://darksouls3.wiki.fextralife.com/Lothric+Castle\" target=\"_blank\" rel=\"noopener noreferrer\">Castelo de Lothric</a>, perto da luta contra o chefe da <a href=\"http://darksouls3.wiki.fextralife.com/Dragonslayer+Armour\" target=\"_blank\" rel=\"noopener noreferrer\">Dragonslayer Armor</a>"
             },
             {
               "id": "checklist_1_9",
@@ -1268,7 +1268,7 @@ const CHECKLISTS_DATA = {
             {
               "id": "checklist_1_12",
               "class": "f_misc",
-              "html": "<strong>Duel Bow</strong>: Recebido após invocar <a href=\"http://darksouls3.wiki.fextralife.com/Londor+Pale+Shade\" target=\"_blank\" rel=\"noopener noreferrer\">Londor Pale Shade</a> antes de <a href=\"http://darksouls3.wiki.fextralife.com/Abyss+Watchers\" target=\"_blank\" rel=\"noopener noreferrer\">Abyss Watchers</a> ou <a href=\"http://darksouls3.wiki.fextralife.com/Pontiff+Sulyvahn\" target=\"_blank\" rel=\"noopener noreferrer\">Pontiff Sulyvahn</a>"
+              "html": "<strong>Reverência de Duelo</strong>: Recebido após invocar <a href=\"http://darksouls3.wiki.fextralife.com/Londor+Pale+Shade\" target=\"_blank\" rel=\"noopener noreferrer\">Londor Pale Shade</a> antes de <a href=\"http://darksouls3.wiki.fextralife.com/Abyss+Watchers\" target=\"_blank\" rel=\"noopener noreferrer\">Abyss Watchers</a> ou <a href=\"http://darksouls3.wiki.fextralife.com/Pontiff+Sulyvahn\" target=\"_blank\" rel=\"noopener noreferrer\">Pontiff Sulyvahn</a>"
             },
             {
               "id": "checklist_1_13",
@@ -1283,7 +1283,7 @@ const CHECKLISTS_DATA = {
             {
               "id": "checklist_1_15",
               "class": "f_misc",
-              "html": "<strong>By My Sword</strong>: Recebido ao invocar <a href=\"http://darksouls3.wiki.fextralife.com/Black+Hand+Gotthard\" target=\"_blank\" rel=\"noopener noreferrer\">Black Hand Gotthard</a>. Ele realizará o gesto conforme for convocado"
+              "html": "<strong>Pela Minha Espada</strong>: Recebido ao invocar <a href=\"http://darksouls3.wiki.fextralife.com/Black+Hand+Gotthard\" target=\"_blank\" rel=\"noopener noreferrer\">Black Hand Gotthard</a>. Ele realizará o gesto conforme for convocado"
             },
             {
               "id": "checklist_1_16",
@@ -1333,7 +1333,7 @@ const CHECKLISTS_DATA = {
             {
               "id": "checklist_1_25",
               "class": "f_misc",
-              "html": "<strong>Stretch Out</strong>: Encontrado no cadáver de Laddersmith Gilligan na primeira fogueira em <a href=\"http://darksouls3.wiki.fextralife.com/Profaned+Capital\" target=\"_blank\" rel=\"noopener noreferrer\">Profaned Capital</a>"
+              "html": "<strong>Esticar-se</strong>: Encontrado no cadáver de Laddersmith Gilligan na primeira fogueira em <a href=\"http://darksouls3.wiki.fextralife.com/Profaned+Capital\" target=\"_blank\" rel=\"noopener noreferrer\">Profaned Capital</a>"
             },
             {
               "id": "checklist_1_26",
@@ -1371,32 +1371,32 @@ const CHECKLISTS_DATA = {
             {
               "id": "checklist_6_4",
               "class": "f_misc",
-              "html": "<b>Pesado</b>: Disponível após adquirir <a href=\"http://darksouls3.wiki.fextralife.com/Farron+Coal\" target=\"_blank\" rel=\"noopener noreferrer\">Farron Coal</a> de <a href=\"http://darksouls3.wiki.fextralife.com/Road+of+Sacrifices\" target=\"_blank\" rel=\"noopener noreferrer\">Road of Sacrifices</a>, requer <a href=\"http://darksouls3.wiki.fextralife.com/Heavy+Gem\" target=\"_blank\" rel=\"noopener noreferrer\">Jóia Pesada</a>"
+              "html": "<b>Pesado</b>: Disponível após adquirir <a href=\"http://darksouls3.wiki.fextralife.com/Farron+Coal\" target=\"_blank\" rel=\"noopener noreferrer\">Carvão de Farron</a> de <a href=\"http://darksouls3.wiki.fextralife.com/Road+of+Sacrifices\" target=\"_blank\" rel=\"noopener noreferrer\">Road of Sacrifices</a>, requer <a href=\"http://darksouls3.wiki.fextralife.com/Heavy+Gem\" target=\"_blank\" rel=\"noopener noreferrer\">Jóia Pesada</a>"
             },
             {
               "id": "checklist_6_5",
               "class": "f_misc",
-              "html": "<b>Sharp</b>: Disponível após adquirir <a href=\"http://darksouls3.wiki.fextralife.com/Farron+Coal\" target=\"_blank\" rel=\"noopener noreferrer\">Farron Coal</a> de <a href=\"http://darksouls3.wiki.fextralife.com/Road+of+Sacrifices\" target=\"_blank\" rel=\"noopener noreferrer\">Road of Sacrifices</a>, requer <a href=\"http://darksouls3.wiki.fextralife.com/Sharp+Gem\" target=\"_blank\" rel=\"noopener noreferrer\">Joia Afiada</a>"
+              "html": "<b>Sharp</b>: Disponível após adquirir <a href=\"http://darksouls3.wiki.fextralife.com/Farron+Coal\" target=\"_blank\" rel=\"noopener noreferrer\">Carvão de Farron</a> de <a href=\"http://darksouls3.wiki.fextralife.com/Road+of+Sacrifices\" target=\"_blank\" rel=\"noopener noreferrer\">Road of Sacrifices</a>, requer <a href=\"http://darksouls3.wiki.fextralife.com/Sharp+Gem\" target=\"_blank\" rel=\"noopener noreferrer\">Joia Afiada</a>"
             },
             {
               "id": "checklist_6_6",
               "class": "f_misc",
-              "html": "<b>Veneno</b>: Disponível após adquirir <a href=\"http://darksouls3.wiki.fextralife.com/Farron+Coal\" target=\"_blank\" rel=\"noopener noreferrer\">Farron Coal</a> de <a href=\"http://darksouls3.wiki.fextralife.com/Road+of+Sacrifices\" target=\"_blank\" rel=\"noopener noreferrer\">Road of Sacrifices</a>, requer <a href=\"http://darksouls3.wiki.fextralife.com/Poison+Gem\" target=\"_blank\" rel=\"noopener noreferrer\">Gema Venenosa</a>"
+              "html": "<b>Veneno</b>: Disponível após adquirir <a href=\"http://darksouls3.wiki.fextralife.com/Farron+Coal\" target=\"_blank\" rel=\"noopener noreferrer\">Carvão de Farron</a> de <a href=\"http://darksouls3.wiki.fextralife.com/Road+of+Sacrifices\" target=\"_blank\" rel=\"noopener noreferrer\">Road of Sacrifices</a>, requer <a href=\"http://darksouls3.wiki.fextralife.com/Poison+Gem\" target=\"_blank\" rel=\"noopener noreferrer\">Gema Venenosa</a>"
             },
             {
               "id": "checklist_6_7",
               "class": "f_misc",
-              "html": "<b>Crystal</b>: Disponível após adquirir <a href=\"http://darksouls3.wiki.fextralife.com/Sage's+Coal\" target=\"_blank\" rel=\"noopener noreferrer\">Sage's Coal</a> de <a href=\"http://darksouls3.wiki.fextralife.com/Farron+Keep\" target=\"_blank\" rel=\"noopener noreferrer\">Farron Keep</a>, requer <a href=\"http://darksouls3.wiki.fextralife.com/Crystal+Gem\" target=\"_blank\" rel=\"noopener noreferrer\">Gema de Cristal</a>"
+              "html": "<b>Crystal</b>: Disponível após adquirir <a href=\"http://darksouls3.wiki.fextralife.com/Sage's+Coal\" target=\"_blank\" rel=\"noopener noreferrer\">Carvão do Sábio</a> de <a href=\"http://darksouls3.wiki.fextralife.com/Farron+Keep\" target=\"_blank\" rel=\"noopener noreferrer\">Farron Keep</a>, requer <a href=\"http://darksouls3.wiki.fextralife.com/Crystal+Gem\" target=\"_blank\" rel=\"noopener noreferrer\">Gema de Cristal</a>"
             },
             {
               "id": "checklist_6_8",
               "class": "f_misc",
-              "html": "<b>Blessed</b>: Disponível após adquirir <a href=\"http://darksouls3.wiki.fextralife.com/Sage's+Coal\" target=\"_blank\" rel=\"noopener noreferrer\">Sage's Coal</a> de <a href=\"http://darksouls3.wiki.fextralife.com/Farron+Keep\" target=\"_blank\" rel=\"noopener noreferrer\">Farron Keep</a>, requer <a href=\"http://darksouls3.wiki.fextralife.com/Blessed+Gem\" target=\"_blank\" rel=\"noopener noreferrer\">Jóia Abençoada</a>"
+              "html": "<b>Blessed</b>: Disponível após adquirir <a href=\"http://darksouls3.wiki.fextralife.com/Sage's+Coal\" target=\"_blank\" rel=\"noopener noreferrer\">Carvão do Sábio</a> de <a href=\"http://darksouls3.wiki.fextralife.com/Farron+Keep\" target=\"_blank\" rel=\"noopener noreferrer\">Farron Keep</a>, requer <a href=\"http://darksouls3.wiki.fextralife.com/Blessed+Gem\" target=\"_blank\" rel=\"noopener noreferrer\">Jóia Abençoada</a>"
             },
             {
               "id": "checklist_6_9",
               "class": "f_misc",
-              "html": "<b>Deep</b>: Disponível após adquirir <a href=\"http://darksouls3.wiki.fextralife.com/Sage's+Coal\" target=\"_blank\" rel=\"noopener noreferrer\">Sage's Coal</a> de <a href=\"http://darksouls3.wiki.fextralife.com/Farron+Keep\" target=\"_blank\" rel=\"noopener noreferrer\">Farron Keep</a>, requer <a href=\"http://darksouls3.wiki.fextralife.com/Deep+Gem\" target=\"_blank\" rel=\"noopener noreferrer\">Jóia Profunda</a>"
+              "html": "<b>Deep</b>: Disponível após adquirir <a href=\"http://darksouls3.wiki.fextralife.com/Sage's+Coal\" target=\"_blank\" rel=\"noopener noreferrer\">Carvão do Sábio</a> de <a href=\"http://darksouls3.wiki.fextralife.com/Farron+Keep\" target=\"_blank\" rel=\"noopener noreferrer\">Farron Keep</a>, requer <a href=\"http://darksouls3.wiki.fextralife.com/Deep+Gem\" target=\"_blank\" rel=\"noopener noreferrer\">Jóia Profunda</a>"
             },
             {
               "id": "checklist_6_10",
@@ -1416,12 +1416,12 @@ const CHECKLISTS_DATA = {
             {
               "id": "checklist_6_13",
               "class": "f_misc",
-              "html": "<b>Lightning</b>: Disponível após adquirir <a href=\"http://darksouls3.wiki.fextralife.com/Giant's+Coal\" target=\"_blank\" rel=\"noopener noreferrer\">Giant's Coal</a> de <a href=\"http://darksouls3.wiki.fextralife.com/Anor+Londo\" target=\"_blank\" rel=\"noopener noreferrer\">Anor Londo</a>, requer <a href=\"http://darksouls3.wiki.fextralife.com/Lightning+Gem\" target=\"_blank\" rel=\"noopener noreferrer\">Jóia Relâmpago</a>"
+              "html": "<b>Lightning</b>: Disponível após adquirir <a href=\"http://darksouls3.wiki.fextralife.com/Giant's+Coal\" target=\"_blank\" rel=\"noopener noreferrer\">Carvão do Gigante</a> de <a href=\"http://darksouls3.wiki.fextralife.com/Anor+Londo\" target=\"_blank\" rel=\"noopener noreferrer\">Anor Londo</a>, requer <a href=\"http://darksouls3.wiki.fextralife.com/Lightning+Gem\" target=\"_blank\" rel=\"noopener noreferrer\">Jóia Relâmpago</a>"
             },
             {
               "id": "checklist_6_14",
               "class": "f_misc",
-              "html": "<b>Simples</b>: Disponível após adquirir <a href=\"http://darksouls3.wiki.fextralife.com/Giant's+Coal\" target=\"_blank\" rel=\"noopener noreferrer\">Giant's Coal</a> de <a href=\"http://darksouls3.wiki.fextralife.com/Anor+Londo\" target=\"_blank\" rel=\"noopener noreferrer\">Anor Londo</a>, requer <a href=\"http://darksouls3.wiki.fextralife.com/Simple+Gem\" target=\"_blank\" rel=\"noopener noreferrer\">Jóia Simples</a>"
+              "html": "<b>Simples</b>: Disponível após adquirir <a href=\"http://darksouls3.wiki.fextralife.com/Giant's+Coal\" target=\"_blank\" rel=\"noopener noreferrer\">Carvão do Gigante</a> de <a href=\"http://darksouls3.wiki.fextralife.com/Anor+Londo\" target=\"_blank\" rel=\"noopener noreferrer\">Anor Londo</a>, requer <a href=\"http://darksouls3.wiki.fextralife.com/Simple+Gem\" target=\"_blank\" rel=\"noopener noreferrer\">Jóia Simples</a>"
             },
             {
               "id": "checklist_6_15",
@@ -4912,17 +4912,17 @@ const CHECKLISTS_DATA = {
         {
           "id": "crow_1_1",
           "class": "f_misc",
-          "html": "Troque <a href=\"http://darksouls3.wiki.fextralife.com/Firebomb\" target=\"_blank\" rel=\"noopener noreferrer\">Bomba incendiária</a> ou <a href=\"http://darksouls3.wiki.fextralife.com/Rope+Firebomb\" target=\"_blank\" rel=\"noopener noreferrer\">Bomba incendiária de corda</a> por <a href=\"http://darksouls3.wiki.fextralife.com/Large+Titanite+Shard\" target=\"_blank\" rel=\"noopener noreferrer\">Titanite grande Fragmento</a>"
+          "html": "Troque <a href=\"http://darksouls3.wiki.fextralife.com/Bomba de Fogo\" target=\"_blank\" rel=\"noopener noreferrer\">Bomba incendiária</a> ou <a href=\"http://darksouls3.wiki.fextralife.com/Rope+Bomba de Fogo\" target=\"_blank\" rel=\"noopener noreferrer\">Bomba incendiária de corda</a> por <a href=\"http://darksouls3.wiki.fextralife.com/Large+Titanite+Shard\" target=\"_blank\" rel=\"noopener noreferrer\">Titanite grande Fragmento</a>"
         },
         {
           "id": "crow_1_2",
           "class": "f_misc",
-          "html": "Troque <a href=\"http://darksouls3.wiki.fextralife.com/Black+Firebomb\" target=\"_blank\" rel=\"noopener noreferrer\">Bomba de Fogo Negra</a> ou <a href=\"http://darksouls3.wiki.fextralife.com/Rope+Black+Firebomb\" target=\"_blank\" rel=\"noopener noreferrer\">Rope Black Firebomb</a> por <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Chunk\" target=\"_blank\" rel=\"noopener noreferrer\">Pedaço de titanita</a>"
+          "html": "Troque <a href=\"http://darksouls3.wiki.fextralife.com/Black+Bomba de Fogo\" target=\"_blank\" rel=\"noopener noreferrer\">Bomba de Fogo Negra</a> ou <a href=\"http://darksouls3.wiki.fextralife.com/Rope+Black+Bomba de Fogo\" target=\"_blank\" rel=\"noopener noreferrer\">Rope Black Bomba de Fogo</a> por <a href=\"http://darksouls3.wiki.fextralife.com/Titanite+Chunk\" target=\"_blank\" rel=\"noopener noreferrer\">Pedaço de titanita</a>"
         },
         {
           "id": "crow_1_3",
           "class": "f_misc",
-          "html": "Troque <a href=\"http://darksouls3.wiki.fextralife.com/Prism+Stone\" target=\"_blank\" rel=\"noopener noreferrer\">Pedra Prisma</a> por <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanite Cintilante</a>"
+          "html": "Troque <a href=\"http://darksouls3.wiki.fextralife.com/Prism+Stone\" target=\"_blank\" rel=\"noopener noreferrer\">Pedra Prisma</a> por <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante</a>"
         },
         {
           "id": "crow_1_4",
@@ -5012,7 +5012,7 @@ const CHECKLISTS_DATA = {
         {
           "id": "crow_1_21",
           "class": "f_misc",
-          "html": "Troque <a href=\"http://darksouls3.wiki.fextralife.com/Large+Leather+Shield\" target=\"_blank\" rel=\"noopener noreferrer\">Escudo Grande de Couro</a> por <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanite Cintilante</a>"
+          "html": "Troque <a href=\"http://darksouls3.wiki.fextralife.com/Large+Leather+Shield\" target=\"_blank\" rel=\"noopener noreferrer\">Escudo Grande de Couro</a> por <a href=\"http://darksouls3.wiki.fextralife.com/Twinkling+Titanite\" target=\"_blank\" rel=\"noopener noreferrer\">Titanita Cintilante</a>"
         },
         {
           "id": "crow_1_22",
